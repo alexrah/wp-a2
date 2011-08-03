@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: loop-1.php:94
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: loop-1.php:94
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+msgid "404 - Not Found"
+msgstr ""
+
+#. Text in echo
+#: framework/global/themefunctions.php:178
+msgid "About the author"
+msgstr ""
+
+#. Text in echo
+#: 404.php:21
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#. Text in function
+#: framework/plugins/breadcrumbs/breadcrumbs.php:1
+msgid "Archive by category"
+msgstr ""
+
+#. Text in function
+#: framework/plugins/breadcrumbs/breadcrumbs.php:1
+msgid "Articles posted by"
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+msgid "Author Archive for:"
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+#: archive.php:13
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: single.php:113
+#: single-portfolio.php:117
+msgid "Bookmark at delicious"
+msgstr ""
+
+#. Text in echo
+#: single.php:109
+#: single-portfolio.php:113
+msgid "Bookmark at digg"
+msgstr ""
+
+#. Text in echo
+#: single.php:115
+#: single-portfolio.php:119
+msgid "Bookmark at google"
+msgstr ""
+
+#. Text in echo
+#: single.php:119
+#: single-portfolio.php:123
+msgid "Bookmark at reddit"
+msgstr ""
+
+#. Text in echo
+#: single.php:121
+#: single-portfolio.php:125
+msgid "Bookmark at stumbleupon"
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+msgid "Category Archive for:"
+msgstr ""
+
+#. Text in function
+#: archive.php:13
+msgid "Category Archive for: %s"
+msgstr ""
+
+#. Text in function
+#: comments.php:39
+msgid "Click here to cancel the reply"
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+msgid "Daily Archive for:"
+msgstr ""
+
+#. Text in function
+#: archive.php:13
+msgid "Daily Archive for: %s"
+msgstr ""
+
+#. Text in function
+#: comments.php:104
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: page.php:98
+#: single-portfolio.php:101
+msgid "Edit this Page"
+msgstr ""
+
+#. Text in function
+#: single.php:98
+msgid "Edit this Post"
+msgstr ""
+
+#. Text in echo
+#: comments.php:57
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: framework/plugins/breadcrumbs/breadcrumbs.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: comments.php:37
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: comments.php:50
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out\">Log out?</a>"
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+msgid "Looks like the page you're looking for isn't here anymore. "
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+msgid "Monthly Archive for:"
+msgstr ""
+
+#. Text in function
+#: archive.php:13
+msgid "Monthly Archive for: %s"
+msgstr ""
+
+#. Text in echo
+#: comments.php:54
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: loop-1.php:94
+msgid "No Comments"
+msgstr ""
+
+#. Text in echo
+#: search.php:46
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+#: framework/plugins/breadcrumbs/breadcrumbs.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in echo
+#: framework/global/themefunctions.php:254
+msgid "Popular posts"
+msgstr ""
+
+#. Text in echo
+#: comments.php:73
+msgid "Post Comment"
+msgstr ""
+
+#. Text in function
+#: framework/plugins/breadcrumbs/breadcrumbs.php:1
+msgid "Posts tagged"
+msgstr ""
+
+#. Text in echo
+#: loop-1.php:100
+#: loop-1.php:101
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: loop-2.php:31
+msgid "Read more &raquo;"
+msgstr ""
+
+#. Text in echo
+#: framework/global/themefunctions.php:197
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in function
+#: comments.php:95
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: framework/global/themefunctions.php:159
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: framework/plugins/breadcrumbs/breadcrumbs.php:1
+msgid "Search results for"
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+msgid "Search results for:"
+msgstr ""
+
+#. Text in echo
+#: framework/global/themefunctions.php:158
+#: searchform.php:3
+msgid "Search.."
+msgstr ""
+
+#. Text in echo
+#: single.php:102
+#: single-portfolio.php:106
+msgid "Share this"
+msgstr ""
+
+#. Text in echo
+#: single.php:105
+#: single-portfolio.php:109
+msgid "Share this on facebook"
+msgstr ""
+
+#. Text in echo
+#: single.php:117
+#: single-portfolio.php:121
+msgid "Share this on linked in"
+msgstr ""
+
+#. Text in echo
+#: single.php:111
+#: single-portfolio.php:115
+msgid "Share this on myspace"
+msgstr ""
+
+#. Text in echo
+#: single.php:107
+#: single-portfolio.php:111
+msgid "Share this on twitter"
+msgstr ""
+
+#. Text in echo
+#: search.php:47
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+msgid "Tag Archives for:"
+msgstr ""
+
+#. Text in function
+#: archive.php:13
+msgid "Tag Archives for: %s"
+msgstr ""
+
+#. Text in echo
+#: comments.php:7
+msgid "This post is password protected."
+msgstr ""
+
+#. Text in echo
+#: comments.php:61
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: framework/global/themefunctions.php:1
+msgid "Yearly Archive for:"
+msgstr ""
+
+#. Text in function
+#: archive.php:13
+msgid "Yearly Archive for: %s"
+msgstr ""
+
+#. Text in function
+#: comments.php:43
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr ""
+
+#. Text in echo
+#: comments.php:113
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: framework/widgets/contactform.php:86
+msgid "Your message was successfully sent!"
+msgstr ""
+
+#. Text in echo
+#: framework/widgets/twitter.php:50
+msgid "about %d days ago"
+msgstr ""
+
+#. Text in echo
+#: framework/widgets/twitter.php:48
+msgid "about %d hours ago"
+msgstr ""
+
+#. Text in echo
+#: framework/widgets/twitter.php:46
+msgid "about %d minutes ago"
+msgstr ""
+
+#. Text in echo
+#: framework/widgets/twitter.php:44
+msgid "about %d seconds ago"
+msgstr ""
+
+#. Text in echo
+#: framework/widgets/twitter.php:49
+msgid "about a day ago"
+msgstr ""
+
+#. Text in echo
+#: framework/widgets/twitter.php:45
+msgid "about a minute ago"
+msgstr ""
+
+#. Text in echo
+#: framework/widgets/twitter.php:47
+msgid "about an hour ago"
+msgstr ""
+
+#. Text in echo
+#: template_blog2.php:109
+#: template_blog1.php:111
+msgid "more blog posts"
+msgstr ""
+
+#. Text in echo
+#: framework/widgets/twitter.php:51
+msgid "view tweet on twitter"
+msgstr ""

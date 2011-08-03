@@ -1,0 +1,23 @@
+.page-numbers, 
+.button, button{
+	background:url(../images/buttonBg_ie.png) repeat-x bottom;
+	
+}
+
+.page-numbers:hover, 
+.button:hover, button:hover{
+	background:none;
+	
+}
+
+#grid_slider img{
+	
+display:block;	
+}
+
+#grid_slider2 img{
+	
+display:block;	
+}
+
+#kwicks li a img{display:block;}

@@ -1,0 +1,58 @@
+.portfolios ul li {
+	zoom:1;
+	display: inline;
+}
+.blogcol li{
+	zoom:1;
+	display: inline;
+}
+.roundbox{
+	zoom:1;
+	display: inline;
+}
+.icon_doc,.icon_play,.icon_zoom,.lightbox {
+	cursor: pointer;
+}
+.frame,.thumbnail{
+	zoom:1;
+	display: inline;
+	font-size:0px;
+}
+.frame img, .thumbnail img{
+    display:block;	
+}
+.comment_author {
+	float:left;
+	zoom:1;
+}
+.comment_meta{
+	clear:both;
+}
+.comment_content .comment_meta .comment_date{
+		float:none;
+		display: inline;
+		zoom:1;
+		position:absolute;
+		right:0;
+		top:0;
+}
+.post_extra_info{
+    zoom:1;
+	display: inline;
+}
+#searchform button {
+	margin-left:5px;
+	display:inline;
+	zoom:1;
+	width:80px;
+}
+.widget_ads {
+	zoom:1;
+}
+.code,.pre {
+	word-wrap: break-word;
+}
+.toggle_content {
+	position:relative;
+	zoom:1; 
+}

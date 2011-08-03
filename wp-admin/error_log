@@ -1,0 +1,2 @@
+[03-Aug-2011 05:13:00] PHP Warning:  imagecreatefrompng(http://fellineimpianti.it/wp-content/uploads/2011/08/Screen-shot-2011-07-04-at-10.33.12-PM.png) [<a href='function.imagecreatefrompng'>function.imagecreatefrompng</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/fellinei/public_html/wp-admin/includes/image-edit.php on line 220
