@@ -16,7 +16,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wp-a2new');
+define('DB_NAME', 'fellinei_a2new');
 
 /** MySQL database username */
 define('DB_USER', 'fellinei_wpuser2');

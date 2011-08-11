@@ -175,6 +175,14 @@ switch($slider){
         <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'tipo altro 2', true); ?></h4>
       </td>
     </tr>
+    <tr>
+      <td>
+        <h4><?php echo get_post_meta($post->ID, 'Altro 3', true); ?></h4>
+      </td>
+      <td>
+        <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'tipo altro 3', true); ?></h4>
+      </td>
+    </tr>
 
   </tbody>
 </table>
@@ -184,6 +192,8 @@ switch($slider){
 <h5><?php echo get_post_meta($post->ID, 'Intervento Felline 1', true); ?></h5>
 <h5><?php echo get_post_meta($post->ID, 'Intervento Felline 2', true); ?></h5>
 <h5><?php echo get_post_meta($post->ID, 'Intervento Felline 3', true); ?></h5>
+<h5><?php echo get_post_meta($post->ID, 'Intervento Felline 4', true); ?></h5>
+<h5><?php echo get_post_meta($post->ID, 'Intervento Felline 5', true); ?></h5>
 </blockquote>
 <!-- FROM HERE START THE POST WIDGET AREA --> 
              <div class="divider_line"></div>
