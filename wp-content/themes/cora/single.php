@@ -79,8 +79,7 @@ switch($slider){
 			case 'Grid Slider V2':
 				theme_functions('slider_blox2');
 				break;	
-		}
-		
+		}	
 
 ?>
 
@@ -96,9 +95,98 @@ switch($slider){
           <div id="primary" style="float:<?php echo $layout?>;">
       <?php endif;?>
       
-          <h4><?php echo get_the_title() ?></h4>  
+          <h2 style="text-align: center;"><?php echo get_the_title() ?></h2>  
         <div id="blog_content"><?php the_content(); ?></div>
-          <div class="divider_line"></div>
+<!-- FROM HERE START CUSTOM FIELD TEMPLATE --> 
+        <h3>La Struttura</h3>
+          <h5 style="text-align: justify;"><p class="one_half"><?php echo get_post_meta($post->ID, 'La Struttura', true); ?></p></h5>      
+              <div class="one_half last"> <!-- SCHEDA TECNICA INIZIO -->  
+<table border="0" width="250px" style=" margin-left: 40px;" >
+  <tbody>
+    <tr>
+      <td colspan="2" style="background-color: #CFCFCF;">
+<h4>SCHEDA TECNICA</h4>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4><?php echo get_post_meta($post->ID, 'Impianto', true); ?></h4>
+      </td>
+      <td>
+        <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'Tipo Impianto', true); ?></h4>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4><?php echo get_post_meta($post->ID, 'Unita esterne', true); ?></h4>
+      </td>
+      <td>
+        <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'N esterne', true); ?></h4>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4><?php echo get_post_meta($post->ID, 'Unita interne', true); ?></h4>
+      </td>
+      <td>
+        <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'N interne', true); ?></h4>
+      </td>
+    </tr>
+    <tr>
+      <td>
+          <?php $fields = get_post_meta($post->ID, 'Potenza', false); ?>
+            <?php foreach($fields as $field) {
+                    echo '<h4>'.$field.'</h4>'; 
+            } ?>
+      </td>
+      <td>
+        <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'N potenza', true); ?></h4>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4><?php echo get_post_meta($post->ID, 'Canalizzazioni', true); ?></h4>
+      </td>
+      <td>
+        <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'tipo canalizzazioni', true); ?></h4>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4><?php echo get_post_meta($post->ID, 'Diffusori', true); ?></h4>
+      </td>
+      <td>
+        <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'tipo diffusori', true); ?></h4>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4><?php echo get_post_meta($post->ID, 'Altro 1', true); ?></h4>
+      </td>
+      <td>
+        <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'tipo altro 1', true); ?></h4>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h4><?php echo get_post_meta($post->ID, 'Altro 2', true); ?></h4>
+      </td>
+      <td>
+        <h4 style="text-align: right;"><?php echo get_post_meta($post->ID, 'tipo altro 2', true); ?></h4>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+              </div>
+<h3>intervento Felline</h3>
+<blockquote>
+<h5><?php echo get_post_meta($post->ID, 'Intervento Felline 1', true); ?></h5>
+<h5><?php echo get_post_meta($post->ID, 'Intervento Felline 2', true); ?></h5>
+<h5><?php echo get_post_meta($post->ID, 'Intervento Felline 3', true); ?></h5>
+</blockquote>
+<!-- FROM HERE START THE POST WIDGET AREA --> 
+             <div class="divider_line"></div>
             <div class="divider"></div>
           <div id="post_widget>">
             <div class="one_half" id="post_widget_left" ><?php dynamic_sidebar('Post Widget Right'); ?></div>  
@@ -146,7 +234,7 @@ switch($slider){
          
       <?php if($layout!='full width'): ?>
           </div><!-- end primary -->
-
+<!-- ADD NEW RESIDENZIALE SIDEBAR HOOKER  -->
           <div id="sidebar_<?php echo $sidebar;?>"> 
                 <div class="sidebar_content_<?php echo $sidebar;?> sidebar" >
             

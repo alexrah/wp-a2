@@ -22,79 +22,25 @@ global $options_post;
 
 $options_post = array();
 
-$options_post[] = array( "name" => "Layout",
-					"id" => "layout",
-					"std" => "default",
-					"options" => array(
-					   "default",
-					   "right sidebar",
-					   "left sidebar",
-					   "full width"
-					),
-					"type" => "select"); 
-
-					
-$options_post[] = array( "name" => "Caption (optional text that will be displayed on mouseover)",
-					"desc" => "",
-					"id" => "caption",
-					"std" => '',
-					"type" => "textarea"
-					);
-					
-$options_post[] = array( "name" => "Vimeo video url",
-					"desc" => "if you want a video attached to this post type the video id here",
-					"id" => "video",
-					"std" => "",
-					"type" => "text"); 
-					
-					
-$options_post[] = array( "name" => "Custom Sidebar",
-					"id" => "custom_sidebar",
-					"desc"=> "you must first create a custom sidebar in the sidebar section of the admin panel",
-					"std" => "off",
-					"options" => get_sidebars_meta(),
-					"type" => "select"); 
-					
-$options_post[] = array( "name" => "Slideshow Type",
+$options_post[] = array( "name" => "Galleria On/Off",
 					"id" => "slideshow_type",
-					"desc"=> "choose what slider type to use on this page",
-					"std" => "Static Image",
+					"desc"=> "Seleziona la modalita' galleria",
+					"std" => "Kwicks Slider",
 					"options" => array(
-					     "Static Image",
-					     "Nivo Slider",
 						 "Kwicks Slider",
-						 "Piecemaker Slider",
-						 "Full Width Slider",
-						 "Grid Slider",
-						 "Grid Slider V2",
+					   "Static Image",
 						 "off",
 					)
 					,
 					"type" => "select");  
 					
 						
-$options_post[] = array( "name" => "Slideshow Set",
+$options_post[] = array( "name" => "Set Fotografico",
 					"id" => "slideshow_set",
-					"desc"=> "choose which slideshow set to display, if you want a slider on this page",
+					"desc"=> "Seleziona il set fotografico da visualizzare in questa pagina",
 					"std" => "off",
 					"options" => "",
 					"type" => "select_slideshow");  
-					
-$options_post[] = array( "name" => "Slideshow Height (optional)",
-					"id" => "slideshow_height",
-					"desc"=> "choose the height of the slideshow images between 100 and 500",
-					"std" => "",		
-					"type" => "text");  
-					
-$options_post[] = array( "name" => "Slideshow Captions (optional)",
-					"id" => "slideshow_captions",
-					"desc"=> "choose if the slider will have captions",
-					"std" => "on",
-					"options" => array(
-					   "off",
-					    "on"
-					),		
-					"type" => "select");  
 					
 					
 
@@ -563,10 +509,9 @@ function meta_options($options_post) {
 function create_meta_box() {
 	global $theme_name;
 	if ( function_exists('add_meta_box') ) {
-	add_meta_box( 'aps', 'Cora Post Settings', 'meta_options', 'post', 'normal', 'high' );
+	add_meta_box( 'aps', 'Impostazioni Galleria Immagini', 'meta_options', 'post', 'normal', 'high' );
 	}
 }
-
 function mytheme_save_data_post($post_id) {
     global $options_post;
 	global $post;

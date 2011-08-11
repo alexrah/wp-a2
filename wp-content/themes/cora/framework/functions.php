@@ -32,7 +32,7 @@ class Theme {
 			
 		add_theme_support('menus');
 		
-		add_theme_support('post-thumbnails', array('post', 'page', 'portfolio', 'slideshow'));
+		add_theme_support('post-thumbnails', array('post', 'page', 'portfolio', 'slideshow', 'installazioni'));
 		
 		register_nav_menus(array(
 				'primary-menu' => THEME_NAME . ' Navigation', 
@@ -159,6 +159,7 @@ class Theme {
 		
 		require_once (THEME_SHORTCODES . '/portfoliojquery.php');
 		require_once (THEME_SHORTCODES . '/blog.php');
+		require_once (THEME_SHORTCODES . '/installazioni.php');
 	}
 	
 	function admin() {
@@ -191,6 +192,27 @@ class Theme {
 	
 
 }
+add_filter('pre_get_posts', 'query_post_type');
+function query_post_type($query) {
+  if(is_category() || is_tag()) {
+    $post_type = get_query_var('post_type');
+  if($post_type)
+      $post_type = $post_type;
+  else
+      $post_type = array('post','installazioni','nav_menu_item'); // replace cpt to your custom post type
+    $query->set('post_type',$post_type);
+  return $query;
+    }
+}
+
+function my_remove_post_meta_boxes() {
+
+  remove_meta_box( 'postdivrich', 'post', 'normal' );
+
+  /* Additional calls to remove_meta_box() go here. */
+}
+add_action( 'admin_menu' , 'my_remove_post_meta_boxes' );
+/*
 add_filter( 'default_content', 'my_editor_content' );
 
 function my_editor_content( $content ) {
@@ -199,4 +221,5 @@ $content = "<h5 style='text-align: justify;'>[one_half]Struttura ricettiva su 3 
 
   return $content;
 }
+ */
 ?>
