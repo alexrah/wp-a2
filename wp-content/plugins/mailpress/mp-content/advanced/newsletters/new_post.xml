@@ -1,0 +1,25 @@
+﻿<newsletter id='new_post'>
+
+	<descriptions>
+		<admin><![CDATA[<?php _e('Per post', MP_TXTDOM); ?>]]></admin>
+		<blog><![CDATA[<?php  _e('For each new post', MP_TXTDOM); ?>]]></blog>
+	</descriptions>
+
+	<mail>
+		<Template>single</Template>
+		<subject><![CDATA[<?php printf( __('[%1$s] New Post : {{the_title}}', MP_TXTDOM), get_bloginfo('name')); ?>]]></subject>
+	</mail>
+
+	<processor>
+		<id>now</id>
+	</processor>
+
+	<scheduler>
+		<id>post</id>
+		<args>            <!-- release the newsletter -->
+			<hour>00</hour>		<!-- [00 to 23] -->
+			<minute>00</minute>	<!-- [00 to 59] -->
+		</args>
+	</scheduler>
+
+</newsletter>

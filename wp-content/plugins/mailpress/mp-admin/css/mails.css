@@ -1,0 +1,87 @@
+.maillist li {
+	border-bottom:1px solid #ccc;
+	margin:0;
+	padding:1em 1em .2em;
+}
+.maillist li li {
+	border-bottom:0px;
+	padding:0;
+}
+.maillist p {
+	margin:0 0 .8em;
+	padding:0;
+}
+.mail-column {
+	margin-left:-5px;
+}
+a.view-mail-post-link {
+	position:absolute;
+	text-decoration:underline;
+}
+.maillist .avatar {
+	vertical-align:text-top;
+}
+#the-mail-list .mail a {
+	border-bottom:1px solid #ababab;
+	color:#666;
+	padding-bottom:1px;
+}
+#the-mail-list .mail a:hover {
+	color:#d54e21;
+}
+#the-mail-list td.mail p.mail-author {
+	margin-left:0;
+	margin-top:0;
+}
+#the-mail-list p.mail-author img {
+	float:left;
+	margin-right:8px;
+}
+#the-mail-list p.mail-author strong a {
+	border:none;
+	color:#2583ad;
+}
+#the-mail-list td.mail {
+	max-width:400px;
+	width:35%;
+	word-wrap:break-word;
+}
+#the-mail-list td.mail p {
+	margin-left:8px;
+}
+form#mails-filter {
+	position:relative;
+}
+a.delete:hover {
+	background-color:#f00;
+	border-bottom-color:#f00;
+	color:#fff;
+}
+img.attach {
+	padding:0 0 0 3px;
+}
+.column-title img {
+	float:right;
+	margin:0;
+}
+th.column-to, td.column-to {
+	text-align:center;
+}
+
+/* mp_message */
+div#mp_message {
+	float:right;
+	margin-right:20px;
+}
+div#mp_message div#message p {
+	padding:2px;
+	margin:0;
+}
+
+/* tracking */
+td.tracking_openrate {
+	text-align:left;
+}
+td.tracking_clicks {
+	text-align:center;
+}

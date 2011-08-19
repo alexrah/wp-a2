@@ -1,0 +1,77 @@
+td.column-newsletters, td.column-mailinglists, td.column-comments {
+	max-width:200px;
+}
+
+.avatar {
+	float:left;
+}
+.userlist li {
+	border-bottom:1px solid #ccc;
+	margin:0;
+	padding:1em 1em .2em;
+}
+.userlist li li {
+	border-bottom:0px;
+	padding:0;
+}
+.userlist p {
+	margin:0 0 .8em;
+	padding:0;
+}
+.user-column {
+	margin-left:-5px;
+}
+.column-comments {
+	text-align:left;
+}
+a.view-user-post-link {
+	position:absolute;
+	text-decoration:underline;
+}
+#the-user-list .user a {
+	border-bottom:1px solid #ababab;
+	color:#666;
+	padding-bottom:1px;
+}
+#the-user-list .user a:hover {
+	color:#d54e21;
+}
+#the-user-list td.user p.user-author {
+	margin-left:0;
+	margin-top:0;
+}
+#the-user-list p.user-author strong img {
+	float:left;
+	margin-right:8px;
+}
+#the-user-list p.user-author strong a {
+	border:none;
+	color:#2583ad;
+}
+#the-user-list p.user-author strong a:hover {
+	color:#D54E21;
+}
+#the-user-list td.user {
+	max-width:400px;
+	width:35%;
+	word-wrap:break-word;
+}
+#the-user-list td.user p {
+	margin-left:8px;
+}
+form#users-filter {
+	position:relative;
+}
+a.delete:hover {
+	background-color:#FF0000;
+	border-bottom-color:#FF0000;
+	color:#FFFFFF;
+}
+img.flag, img.bounced, img.unsubscribed {
+	float:right;
+	padding : 0;
+	margin:0 0 0 7px;
+}
+img.flag {
+	margin-top : 3px;
+}

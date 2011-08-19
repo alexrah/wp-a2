@@ -1,0 +1,15 @@
+.field_type_button 	{ background: url(button/icon.png) 	no-repeat center left; }
+.field_type_captcha_gd1	{ background: url(captcha_gd1/icon.png)	no-repeat center left; }
+.field_type_captcha_gd2	{ background: url(captcha_gd2/icon.png)	no-repeat center left; }
+.field_type_checkbox 	{ background: url(checkbox/icon.png) 	no-repeat center left; }
+.field_type_date 	{ background: url(date/icon.png) 	no-repeat center left; }
+.field_type_email 	{ background: url(email/icon.png) 	no-repeat center left; }
+.field_type_ereg 	{ background: url(ereg/icon.gif) 	no-repeat center left; }
+.field_type_file 	{ background: url(file/icon.png) 	no-repeat center left; }
+.field_type_geotag 	{ background: url(geotag/icon.png) 	no-repeat center left; }
+.field_type_radio 	{ background: url(radio/icon.png) 	no-repeat center left; }
+.field_type_select 	{ background: url(select/icon.png) 	no-repeat center left; }
+.field_type_text 	{ background: url(text/icon.png) 	no-repeat center left; }
+.field_type_textarea 	{ background: url(textarea/icon.png) 	no-repeat center left; }
+.field_type_time 	{ background: url(time/icon.png) 	no-repeat center left; }
+.field_type_recaptcha 	{ background: url(recaptcha/icon.png)   no-repeat center left; }

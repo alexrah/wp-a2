@@ -1,0 +1,5145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-06 00:51+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:179
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:180
+#, php-format
+msgid "Your %1$s version is '%2$s', at least version '%3$s' required."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:179
+msgid "PHP"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:180
+msgid "WordPress"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:181
+#, php-format
+msgid "The directory '%1$s' is not writable."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:182
+msgid "Default php extension 'simplexml' not loaded."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:186
+#, php-format
+msgid "<b>Sorry, but you can't run this plugin : %1$s. </b>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:200
+msgid ""
+"IMPORTANT: <a href=\"%$1s\">Read this before attempting to update MailPress</"
+"a>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:211
+msgid "Manage MailPress add-ons"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:211
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:75
+msgid "Add-ons"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:221
+msgid "New Mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:242
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:78
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\dashboard\mails_activity.xml:9
+msgid "Admin"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:242
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:272
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:190
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:25
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\logs.form.php:9
+msgid "Mails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:242
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:6
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\dashboard\mails_activity.xml:43
+msgid "Users"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:282
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:104
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:19
+msgid "Add New Mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\MailPress.php:282
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:101
+msgid "Add New"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:81
+msgid "Add-on"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:82
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:119
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\import.php:21
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:115
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:166
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:215
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:197
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:163
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:137
+msgid "Description"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:116
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:136
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:139
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\view_logs.php:93
+msgid "All"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:116
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:118
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:139
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:171
+msgid "Active"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:116
+msgid "Inactive"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:116
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:136
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:139
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\view_logs.php:93
+msgid "Search Results"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:149
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:215
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:42
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:83
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:84
+msgid "Deactivate"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:157
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\themes.php:93
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:214
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:41
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:82
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bulk_import.php:35
+msgid "Activate"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:215
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:220
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Themes.class.php:255
+msgid "Visit author homepage"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:221
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\addons.php:224
+msgid "Visit add-on page"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:68
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:59
+msgid "Edit Autoresponder"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:84
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:85
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:94
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:95
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:100
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:101
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:85
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:86
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:71
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:119
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:69
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:132
+msgid "An unidentified error has occurred."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:98
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:108
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:114
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:97
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:84
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:80
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:237
+msgid "%i% pending"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:117
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\import.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:114
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:60
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:298
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:310
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:337
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:96
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\view_logs.php:55
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:560
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:572
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:600
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:156
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:259
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:153
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:49
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:136
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\user.php:57
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:200
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Forms_fields.class.php:234
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:389
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:105
+msgid "Name"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:120
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:176
+msgid "Event"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:173
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:189
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:202
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:191
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:209
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:111
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:210
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:205
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:369
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:382
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_test.php:60
+msgid "Edit"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:174
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:193
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:204
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:192
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:217
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:204
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:422
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:231
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:207
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:393
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:685
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:45
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:55
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:58
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:45
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:93
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:86
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:54
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:91
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:406
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:31
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:32
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:39
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:32
+msgid "Delete"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:200
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:219
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:237
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:229
+#, php-format
+msgid "Edit \"%s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:205
+msgid "Yes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\autoresponders.php:205
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:2
+msgid "No"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:76
+msgid "Edit Form"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:127
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:140
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:204
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:182
+msgid "Label"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:128
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:145
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:59
+msgid "Template"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:129
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:84
+msgid "Recipient"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:130
+msgid "Copy"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:190
+msgid "Templates"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:191
+msgid "Fields"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:192
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:203
+msgid "Duplicate"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:194
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:107
+#, php-format
+msgid "Form preview #%1$s (%2$s)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:194
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\themes.php:94
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:139
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:320
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:107
+msgid "Preview"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:242
+msgid "t.b.c."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:245
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:248
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:253
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:237
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:101
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:480
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\settings.xml:67
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:84
+msgid "yes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\forms.php:248
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:237
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:94
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:99
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:485
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\settings.xml:67
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:84
+msgid "no"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:75
+msgid "MailPress Forms Edit Fields"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:142
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:202
+msgid "Type"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:143
+msgid "Order"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:144
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:62
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd2\settings.xml:52
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:35
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\settings.xml:52
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\ereg\settings.xml:52
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\settings.xml:49
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:37
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\radio\settings.xml:45
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\settings.xml:36
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:61
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\textarea\settings.xml:44
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:33
+msgid "Required"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_fields.php:153
+msgid "In&nbsp;copy"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\form_templates.php:48
+msgid "MailPress Forms Templates"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\import.php:47
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export.php:87
+msgid "Export"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\import.php:47
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_import.php:56
+msgid "Import"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\import.php:70
+#, php-format
+msgid "Import \"%s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:36
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:64
+#, php-format
+msgid ""
+"Can&#8217;t delete the <strong>%s</strong> mailing list: this is the default "
+"one"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:77
+msgid "Edit Mailinglist"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:116
+msgid "Allowed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mailinglists.php:117
+msgid "MP users"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:70
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:131
+msgid "Email was not sent AND/OR Update database failed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:99
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:64
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:391
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\html\mail.php:52
+msgid "Subject"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:100
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:65
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:61
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:97
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:541
+msgid "Author"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:101
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:66
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:53
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:390
+msgid "Theme"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:102
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:67
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:32
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:388
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\html\mail.php:44
+msgid "To"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:103
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:68
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:62
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:98
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\date.php:130
+msgid "Date"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:136
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:387
+msgid "Draft"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:136
+msgid "Unsent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:136
+msgid "Pending"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:136
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:420
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:181
+msgid "Sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:136
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:215
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:388
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:86
+msgid "Archive"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:210
+msgid "Send this mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:210
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:200
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:283
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:314
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:83
+msgid "Send"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:214
+msgid "Unarchive this mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:214
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:89
+msgid "Unarchive"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:215
+msgid "Archive this mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:217
+msgid "Delete this mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:218
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\view_logs.php:127
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:218
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:256
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\recent_archives.php:35
+msgid "View"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:267
+#, php-format
+msgid "Search \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:292
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:399
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:139
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:211
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:168
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:328
+msgid "(unknown)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:373
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:193
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:285
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:230
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:265
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\html\mail.php:92
+msgid "Attachments"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:378
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:425
+msgid "Scheduled"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:384
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:111
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:138
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:210
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:298
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:209
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:130
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:220
+#, php-format
+msgid "Edit \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:384
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:199
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\view_logs.php:127
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\view_logs.php:140
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:212
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:134
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:224
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u001.php:44
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u002.php:51
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u008.php:41
+#, php-format
+msgid "View \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:384
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:385
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:199
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:200
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:206
+msgid "(no subject)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:398
+#, php-format
+msgid "Mails by \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:420
+msgid "Last Modified"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:428
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:232
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:155
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:315
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\mails.php:434
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Admin_page_list.class.php:97
+msgid "Y/m/d"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\revision.php:89
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:295
+msgid "Mail Revisions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\settings.php:38
+msgid "Save Changes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\settings.php:47
+msgid "No logging"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\settings.php:68
+msgid "Logging level : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\settings.php:79
+msgid "(one log file per day)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\settings.php:81
+msgid "Date of last purge"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\themes.php:82
+#, php-format
+msgid "Activate &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\themes.php:83
+#, php-format
+msgid "Preview of &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\themes.php:106
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:69
+msgid "Tags:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_m.php:16
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:16
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:189
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:97
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:114
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:372
+msgid "Tracking"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:59
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:95
+msgid "E-mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:167
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:327
+#, php-format
+msgid "Users by \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\tracking_u.php:224
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:139
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:383
+msgid "Unsubscribed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:84
+msgid "MailPress User"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:110
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\geotag.php:229
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:139
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m006.php:29
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u006.php:29
+msgid "center"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:111
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\geotag.php:231
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:132
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m006.php:30
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u006.php:30
+msgid "change map"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:118
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:68
+msgid "Update database failed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:148
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:209
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:203
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:81
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:86
+msgid "Save"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:153
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:165
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:288
+msgid "Custom Fields"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:172
+msgid "IP info"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:183
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:222
+#, php-format
+msgid ""
+"You are about to unbounce this MailPress user '%s'\n"
+"  'Cancel' to stop, 'OK' to unbounce."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:184
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:223
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:85
+msgid "Unbounce"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:203
+#, php-format
+msgid ""
+"You are about to delete this MailPress user '%s'\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:243
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:418
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:681
+msgid "Key"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:246
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:299
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:311
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:342
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:429
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:561
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:573
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:605
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:692
+msgid "Value"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:267
+msgid "No meta data"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:329
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:592
+msgid "Add new custom field:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:355
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:618
+msgid "- Select -"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:366
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:629
+msgid "Enter new"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:367
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:376
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:455
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:630
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:54
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:62
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:74
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:52
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:60
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_test.php:100
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:145
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:192
+msgid "Cancel"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:384
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:647
+msgid "Add Custom Field"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:391
+msgid ""
+"Custom fields can be used to add extra metadata to a user that you can <a "
+"href=\"http://www.mailpress.org\" target=\"_blank\">use in your mail</a>."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:423
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:204
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:329
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:686
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:60
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:68
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:80
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:58
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:407
+msgid "Update"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\user.php:498
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u006.php:62
+#, php-format
+msgid "ip data provided by %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:139
+msgid "Waiting"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:139
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:189
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:227
+msgid "Bounced"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:214
+#, php-format
+msgid "Activate \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:215
+#, php-format
+msgid "Deactivate \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:223
+#, php-format
+msgid "Unbounce \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:231
+msgid "Delete this user"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\users.php:397
+msgid "Starting with..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\view_log.php:17
+msgid "MailPress Log"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\view_logs.php:128
+#, php-format
+msgid "Browse \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\view_logs.php:128
+msgid "Browse"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:143
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:156
+msgid "Hook name"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:144
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:156
+msgid "Next&nbsp;run"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:145
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:156
+msgid "Recurrence"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:146
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:156
+msgid "Arguments"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:206
+msgid "Do now"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:249
+#, php-format
+msgid "%1$s sec."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:249
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:303
+msgid "Non-repeating"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:268
+#, php-format
+msgid "%s year"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:268
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:269
+#, php-format
+msgid "%s month"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:269
+#, php-format
+msgid "%s months"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:270
+#, php-format
+msgid "%s week"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:270
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:271
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:271
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:272
+#, php-format
+msgid "%s hour"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:272
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:273
+#, php-format
+msgid "%s minute"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:273
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:274
+#, php-format
+msgid "%s second"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:274
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\wp_cron.php:277
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Admin_page_list.class.php:95
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Autoresponders_event_abstract.class.php:56
+msgid "now"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:104
+msgid "Edit Mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:141
+msgid "Saving draft..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:152
+msgid "You have attempted to queue too many files."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:153
+#, php-format
+msgid "This file is too big. Your php.ini upload_max_filesize is %s."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:154
+msgid "This file is empty. Please try another."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:155
+msgid "This file type is not allowed. Please try another."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:156
+msgid "An error occurred in the upload. Please try again later."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:157
+msgid ""
+"There was a configuration error. Please contact the server administrator."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:158
+msgid "You may only upload 1 file."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:159
+msgid "HTTP error."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:160
+msgid "Upload failed."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:161
+msgid "IO error."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:162
+msgid "Security error."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:163
+msgid "File cancelled."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:164
+msgid "Upload stopped."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:165
+msgid "Dismiss"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:166
+msgid "Crunching&hellip;"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:167
+msgid "Deleted"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:176
+msgid "Uploading ..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:177
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:239
+msgid "Attach a file"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:178
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:241
+msgid "Attach another file"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:192
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:103
+msgid "Enter a valid email !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:195
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:309
+msgid "Send <b>immediately</b>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:196
+msgid "Schedule for:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:199
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:269
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:281
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:312
+msgid "Schedule"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:206
+msgid ""
+"You are about to replace the content of plaintext area.\n"
+" 'Cancel' to stop, 'OK' to replace."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:284
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:393
+msgid "Plain Text"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:304
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:118
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:324
+#, php-format
+msgid "Scheduled for: <b>%1$s</b>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:340
+msgid "Save Draft"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:350
+msgid "From:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:359
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_test.php:15
+msgid "current"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:367
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_test.php:3
+msgid "Theme: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:375
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:454
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_test.php:99
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:144
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:191
+msgid "OK"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:392
+#, php-format
+msgid ""
+"You are about to delete this draft '%s'\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:441
+#, php-format
+msgid "%1$s%2$s, %3$s @ %4$s : %5$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:468
+msgid "Synchronize"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:468
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:469
+msgid "Plaintext from Html"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:489
+msgid "homemade uploader"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:496
+msgid "Flash uploader"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:513
+#, php-format
+msgid "Problems?  Try the %s."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:654
+msgid ""
+"Custom fields can be used to add extra metadata to a mail that you can <a "
+"href=\"http://www.mailpress.org\" target=\"_blank\">use in your mail</a>."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:718
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:56
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_comment.form.php:2
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_comment.form.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:361
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:395
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:414
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\dashboard\mails_activity.xml:15
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:116
+msgid "Comments"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:723
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:444
+msgid "Subscribers"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:728
+msgid "Mailinglists"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\write.php:733
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:64
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_newsletter.form.php:7
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:186
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:379
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:402
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:441
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:486
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:126
+msgid "Newsletters"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:4
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:80
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:81
+msgid "MailPress Add-ons"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:16
+#, php-format
+msgid "%s add-on activated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:16
+#, php-format
+msgid "%s add-ons activated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:17
+#, php-format
+msgid "%s add-on deactivated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:17
+#, php-format
+msgid "%s add-ons deactivated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:40
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:44
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:54
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:57
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:44
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:77
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:81
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:53
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:90
+msgid "Bulk Actions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:50
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:92
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:134
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:108
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:86
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:102
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:94
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:61
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:60
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:100
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:142
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:118
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:94
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:115
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:107
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:73
+msgid "Search"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\addons.php:104
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:178
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:168
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_drafts.php:8
+msgid "No results found."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:4
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:119
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:125
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:250
+msgid "Autoresponders"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:27
+msgid "Autoresponder added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:28
+msgid "Autoresponder updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:29
+msgid "Autoresponder deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:30
+msgid "Autoresponders deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:31
+msgid "Autoresponder not added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:32
+msgid "Autoresponder not updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:78
+msgid "Add Autoresponder"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:158
+msgid "The name is used to identify the autoresponder almost everywhere."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:161
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:158
+msgid "Slug"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:163
+msgid ""
+"The &#8220;slug&#8221; is a unique id for the autoresponder (not so "
+"friendly !)."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:168
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:165
+msgid "The description is not prominent by default."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:173
+msgid ""
+"If unchecked during a certain period of time, All mails that should have "
+"been sent on time will be cancelled. Following mails (if any) will be lost "
+"as well."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:194
+msgid "mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:195
+msgid "subject"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\autoresponders.php:196
+msgid "y/m/w/d/h"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:4
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:43
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:99
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:105
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\dashboard\mails_activity.xml:22
+msgid "Forms"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:37
+msgid "Form added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:38
+msgid "Form updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:39
+msgid "Form deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:40
+msgid "Forms deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:41
+msgid "Form not added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:42
+msgid "Form not updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:67
+#, php-format
+msgid "Edit Form # %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:78
+msgid "Add Form"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:84
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\button\settings.xml:56
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:116
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd2\settings.xml:92
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\checkbox\settings.xml:60
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:138
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\settings.xml:99
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\ereg\settings.xml:101
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\settings.xml:78
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:240
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\radio\settings.xml:74
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\settings.xml:73
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:116
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\textarea\settings.xml:80
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:106
+msgid "Attributes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:84
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:82
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\button\settings.xml:58
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:118
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd2\settings.xml:95
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\checkbox\settings.xml:62
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:140
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\settings.xml:102
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\ereg\settings.xml:103
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\settings.xml:81
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:243
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\radio\settings.xml:77
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\settings.xml:75
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:119
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\textarea\settings.xml:82
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:108
+msgid "Options"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:84
+msgid "Messages"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:84
+msgid "Visitor"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:85
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:392
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Forms_field_type_abstract.class.php:124
+msgid "Html"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:95
+msgid "not active"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:96
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:100
+msgid "to be confirmed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:97
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_activity.php:109
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:351
+msgid "active"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:127
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:60
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:23
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:53
+msgid "none"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:210
+msgid "template"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:217
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:199
+msgid "The description can be use to give further explanations"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:235
+msgid "other attributes except 'name' & 'action'"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:241
+msgid "Reset after submission"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:246
+msgid "When processing form is successful"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:248
+msgid "When processing form has failed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:256
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:43
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\user.php:45
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:185
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Forms_fields.class.php:215
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\email.php:51
+msgid "Email"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:261
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:293
+msgid "Mail Theme/Template"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:279
+msgid "Subscription option"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:283
+msgid "Becomes a subscriber"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:287
+msgid "Mail option"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:291
+msgid "Receives a copy"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:319
+msgid "form content"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:320
+msgid "ok/ko message"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\forms.php:326
+#, php-format
+msgid "Template : %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:6
+#, php-format
+msgid "Fields in form &#8220;%1$s&#8221;"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:40
+msgid "Field added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:41
+msgid "Field updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:42
+msgid "Field deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:43
+msgid "Fields deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:44
+msgid "Field not added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:45
+msgid "Field not updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:79
+#, php-format
+msgid "Edit Form Field # %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:95
+msgid "Add Form Field"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:188
+msgid "order in form"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_fields.php:192
+msgid "sub template"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:16
+msgid "No such file exists! Double check the name and try again."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:23
+msgid "File edited successfully."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:24
+msgid "Could not save to file."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:25
+msgid "Could not save to file, xml errors"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:35
+msgid "Edit Form templates"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:41
+#, php-format
+msgid "Editing <strong>%s</strong>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:41
+#, php-format
+msgid "Browsing <strong>%s</strong>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:48
+msgid "Select template to edit:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:69
+msgid "Update File"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\form_templates.php:71
+msgid ""
+"You need to make this file writable before you can save your changes. See <a "
+"href=\"http://codex.wordpress.org/Changing_File_Permissions\">the Codex</a> "
+"for more information."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:12
+msgid "Cannot load importer."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:27
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_import.php:61
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_import.php:71
+msgid "Import/Export"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:33
+msgid ""
+"If you have emails in another system, MailPress can import those into this "
+"blog."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:35
+msgid "MailPress can also export your MP users from this blog."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:37
+msgid "To get started, choose a system to import/export from below:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\import.php:59
+msgid "No importers/exporters available."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:4
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:72
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_mailinglist.form.php:6
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:238
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:382
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:388
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:416
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:468
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:604
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:136
+msgid "Mailing lists"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:27
+msgid "Mailinglist added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:28
+msgid "Mailinglist updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:29
+msgid "Mailinglist deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:30
+msgid "Mailinglists deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:31
+msgid "Mailinglist not added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:32
+msgid "Mailinglist not updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:57
+msgid "Edit Mailing List"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:74
+msgid "Add Mailing List"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:138
+#, php-format
+msgid ""
+"<strong>Note:</strong><br />Deleting a mailing list does not delete the "
+"MailPress users in that mailing list. Instead, MailPress users that were "
+"only assigned to the deleted mailing list are set to the mailing list "
+"<strong>%s</strong>."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:155
+msgid "The name is used to identify the mailinglist almost everywhere."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:160
+msgid ""
+"The &#8220;slug&#8221; is a unique id for the mailing list (not so "
+"friendly !)."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:168
+msgid "Mailing list Parent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:169
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:21
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:291
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:298
+msgid "None"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mailinglists.php:170
+msgid ""
+"Mailing list can have a hierarchy. You might have a Rock'n roll mailing "
+"list, and under that have children mailing lists for Elvis and The Beatles. "
+"Totally optional !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:4
+msgid "Edit Mails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:26
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:44
+#, php-format
+msgid "%s mail deleted"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:44
+#, php-format
+msgid "%s mails deleted"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:45
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:125
+#, php-format
+msgid "%s mail sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:45
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:125
+#, php-format
+msgid "%s mails sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:46
+#, php-format
+msgid "%s mail NOT sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:46
+#, php-format
+msgid "%s mails NOT sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:47
+#, php-format
+msgid "%s mail archived"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:47
+#, php-format
+msgid "%s mails archived"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:48
+#, php-format
+msgid "%s mail unarchived"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:48
+#, php-format
+msgid "%s mails unarchived"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:49
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:119
+msgid "Mail saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:129
+msgid "List View"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\mails.php:130
+msgid "Detail View"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:24
+#, php-format
+msgid "Compare Revisions of &#8220;%1$s&#8221;"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:41
+#, php-format
+msgid "Mail Revision for &#8220;%1$s&#8221; created on %2$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:59
+#, php-format
+msgid "Older: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:60
+#, php-format
+msgid "Newer: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\revision.php:91
+msgid "These revisions are identical."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings.php:4
+msgid "General"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings.php:19
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\dashboard\mails_activity.xml:49
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_test.php:44
+msgid "Test"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings.php:23
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:4
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_view_logs.php:41
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_view_logs.php:47
+msgid "Logs"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings.php:29
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:14
+msgid "MailPress Settings"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:99
+msgid "Subscriptions saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:31
+msgid "Manage Subscriptions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:86
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:447
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:150
+msgid "Nothing to subscribe for ..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\subscriptions.php:87
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:151
+msgid "Your email has been deactivated, ask the administrator ..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:4
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:51
+msgid "MailPress Themes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:41
+msgid ""
+"The active MailPress theme is broken.  Reverting to the default MailPress "
+"theme."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:47
+msgid "New MailPress theme activated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:51
+msgid "Current Theme"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:59
+msgid "Current MailPress theme preview"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:61
+#, php-format
+msgid "%1$s %2$s by %3$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:64
+#, php-format
+msgid ""
+"The template files are located in <code>%2$s</code>.  The stylesheet files "
+"are located in <code>%3$s</code>.  <strong>%4$s</strong> uses templates from "
+"<strong>%5$s</strong>.  Changes made to the templates will affect both "
+"MailPress themes."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:66
+#, php-format
+msgid "All theme&#8217;s files in : <code>%2$s</code>."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:80
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:81
+msgid "Available Themes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:129
+msgid "Broken Themes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:130
+msgid ""
+"The following themes are installed but incomplete.  Themes must have a "
+"stylesheet and a template."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\themes.php:135
+msgid "Folder"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\user.php:15
+#, php-format
+msgid "Edit MailPress User # %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\user.php:19
+msgid "User saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:11
+#, php-format
+msgid "starting with &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:16
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:21
+#, php-format
+msgid "in &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:60
+#, php-format
+msgid "%s subscriber activated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:60
+#, php-format
+msgid "%s subscribers activated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:61
+#, php-format
+msgid "%s subscriber deactivated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:61
+#, php-format
+msgid "%s subscribers deactivated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:62
+#, php-format
+msgid "%s subscriber unbounced"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:62
+#, php-format
+msgid "%s subscribers unbounced"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:63
+#, php-format
+msgid "%s subscriber deleted"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:63
+#, php-format
+msgid "%s subscribers deleted"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:64
+#, php-format
+msgid "%s subscriber geolocated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:64
+#, php-format
+msgid "%s subscribers geolocated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\users.php:116
+msgid "Filter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_log.php:5
+#, php-format
+msgid "Log : %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:36
+#, php-format
+msgid "%s file deleted"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:36
+#, php-format
+msgid "%s files deleted"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:126
+msgid "No logs available"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\view_logs.php:126
+#, php-format
+msgid "Wrong path : %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:4
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_wp_cron.php:41
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_wp_cron.php:47
+msgid "Wp_cron"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:36
+msgid "Cron added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:37
+msgid "Cron updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:38
+msgid "Cron deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:39
+msgid "Crons deleted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:40
+msgid "Cron executed."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:41
+msgid "Cron NOT added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:42
+msgid "Cron NOT updated."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:43
+msgid "Cron NOT executed."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:67
+msgid "Edit cron"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:80
+msgid "Add cron"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:158
+msgid "e.g., \"now\", \"tomorrow\", \"+2 days\", or \"06/04/08 15:27:09\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\wp_cron.php:159
+msgid "JSON encoded string"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:25
+#, php-format
+msgid "Edit Draft # %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:30
+#, php-format
+msgid "Last edited by %1$s on %2$s at %3$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:70
+#, php-format
+msgid ""
+"There is an autosave of this mail that is more recent than the version "
+"below.  <a href=\"%s\">View the autosave</a>."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:92
+msgid "Somebody"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:93
+#, php-format
+msgid "Warning: %s is currently editing this mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:118
+#, php-format
+msgid ""
+"Mail scheduled for: <strong>%1$s</strong>. <a class=\"thickbox\" href=\"%2$s"
+"\">Preview mail</a>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:120
+msgid "Mail NOT sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:121
+msgid "Please, enter a valid email"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:122
+msgid "Mail NOT sent, no recipient"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:126
+#, php-format
+msgid "Mail restored to revision from %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:182
+msgid "To Email:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:188
+msgid "OR all"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:197
+msgid "To Name:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\write.php:210
+msgid "Enter subject here"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:5
+msgid "Dashboard"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:447
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_abstract.class.php:39
+msgid "Settings"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:26
+msgid "All Mails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:30
+msgid "Edit others mails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:33
+msgid "Send mails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:36
+msgid "Delete mails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:39
+msgid "Archive mails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:42
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:70
+msgid "Custom fields"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:46
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:52
+msgid "Themes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:57
+msgid "Edit users"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:62
+msgid "MailPress Users"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:63
+msgid "All Users"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\capabilities\capabilities.php:67
+msgid "Delete users"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches.php:54
+msgid "'Batches' settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:3
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:4
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:3
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:4
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:3
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:4
+#, php-format
+msgid "%1$s seconds"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:5
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:5
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:5
+#, php-format
+msgid "%1$s minute"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:6
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:7
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:8
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:6
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:7
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:8
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:6
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:7
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:8
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:9
+#, php-format
+msgid "%1$s minutes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:10
+#, php-format
+msgid "%1$s hour"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:15
+msgid "Sending Mails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:19
+msgid "Max mails sent per batch"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:30
+msgid "Max retries"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:38
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:46
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:39
+msgid "Submit batch with"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:46
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:54
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:47
+msgid "WP_Cron"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:50
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:58
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:51
+msgid "Every"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:62
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:70
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:63
+msgid "Other"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_batch_send.form.php:66
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:74
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:67
+#, php-format
+msgid "see sample in \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:12
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:12
+msgid "no changes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:13
+msgid "mark as read"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:14
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:14
+msgid "delete"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:19
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:19
+msgid "Handling Bounces"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:23
+msgid "Return-Path"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:26
+#, php-format
+msgid "generated Return-Path will be %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:26
+msgid "start_of_email<i>+mail_id</i>+<i>mp_user_id</i>@mydomain.com"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:30
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:23
+msgid "Max bounces per user"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling.form.php:38
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\batches_bounce_handling_II.form.php:31
+msgid "Bounce in mailbox"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_php_mail.form.php:10
+msgid "Additional_parameters"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_php_mail.form.php:14
+#, php-format
+msgid ""
+"(optional) Specify here the 5th parameter of php <a href='%s'>mail()</a> "
+"function"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_php_mail.form.php:14
+msgid "http://fr.php.net/manual/en/function.mail.php"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_php_mail.php:9
+msgid "'PHP MAIL' settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_pop3.form.php:14
+msgid "POP3 Server"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_pop3.form.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:65
+msgid "Port"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_pop3.form.php:26
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:37
+msgid "Username"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_pop3.form.php:32
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:45
+msgid "Password"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_pop3.php:14
+msgid "'POP3' settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_sendmail.form.php:11
+msgid "Connect"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_sendmail.form.php:15
+msgid "using '/usr/sbin/sendmail -bs'"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_sendmail.form.php:20
+msgid "using a custom command"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_sendmail.php:9
+msgid "'SENDMAIL' settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:6
+msgid "Default SMTP Port"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:7
+msgid "Use for SSL/TLS/GMAIL"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:8
+msgid "Custom Port: (Use Box)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:29
+msgid "SMTP Server"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:53
+msgid "Use SSL or TLS ?"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:60
+#, php-format
+msgid "Site registered socket transports are : <b>%1$s</b>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:77
+msgid "Pop before Smtp"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:83
+msgid "POP3 hostname"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.form.php:86
+msgid "port"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.php:17
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.php:21
+msgid "field should not be empty"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\connection_smtp.php:26
+msgid "SMTP settings saved, Test it !!"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:14
+msgid "&lt;img&gt; defaults"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:18
+msgid "Alignment"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:23
+msgid "Left"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:25
+msgid "Center"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:27
+msgid "Right"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:31
+msgid "style="
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:40
+msgid "Enter full &lt;img&gt; html tag"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:50
+msgid "Filter result"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:68
+msgid "Keep url"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.form.php:71
+#, php-format
+msgid ""
+"NO mail attachements with site images when full url (<i>&lt;img src=\"<b>%1"
+"$s/...</b>\"</i>) is provided."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\filter_img.php:9
+msgid "'Image filter' settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:2
+msgid "Default"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:2
+msgid "Page template"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:2
+msgid "Category template"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\html\mail.php:36
+msgid "From"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:24
+msgid "All Mails sent from"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:29
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:37
+msgid "Email : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:33
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:41
+msgid "Name : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:47
+msgid " Manage subscriptions from"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:58
+msgid "Page id"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:59
+msgid "Category id"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:67
+msgid "View mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:70
+msgid "View mail in fullscreen"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:85
+msgid "MailPress version of wp_mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:88
+msgid "Dashboard widgets"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.form.php:96
+msgid ""
+"You can start to update your SMTP config, once you have saved your General "
+"settings"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:13
+msgid "field should be an email"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.php:15
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:17
+msgid "field should be a name"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.php:19
+msgid "field should be numeric"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\general.php:36
+msgid "General settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\logs.form.php:9
+msgid "Mailing log"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\logs.form.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:141
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:168
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:206
+msgid "(for <b>ALL</b> mails send through MailPress)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\logs.form.php:9
+msgid "Number of Log files : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\logs.php:10
+msgid "Logs settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\roles_and_capabilities.php:13
+msgid "'Roles and capabilities' settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions.php:37
+msgid "\"Subscriptions\" settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_comment.form.php:6
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_mailinglist.form.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_newsletter.form.php:12
+msgid "Allow subscriptions to"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_mailinglist.form.php:27
+msgid "You need to create at least one mailinglist."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_newsletter.form.php:34
+msgid "** Blog **"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\subscriptions_newsletter.form.php:50
+msgid "default"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:50
+msgid "Advanced options"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:75
+msgid "Log it"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:75
+msgid "Send it"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:75
+msgid "Archive it"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:75
+msgid "Include it in statistics"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.form.php:87
+msgid "Save &amp; Test"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:24
+msgid "Test settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:53
+#, php-format
+msgid "Connection test : %1$s - Template : %2$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:55
+msgid "This is a test message of MailPress from"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:58
+#, php-format
+msgid "This is a <blink>test</blink> message of %1$s from %2$s. <br /><br />"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:82
+msgid "Test settings saved, Mail not send as required"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:83
+msgid "Test successful, CONGRATULATIONS !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\test.php:86
+msgid "FAILED. Check your logs & settings !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\tracking.form.php:17
+msgid "User"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\tracking.form.php:18
+msgid "Mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\tracking.form.php:21
+msgid "Boxes"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-admin\includes\settings\tracking.php:9
+msgid "'Tracking' settings saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:124
+msgid "MailPress Autoresponders"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:135
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:201
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:268
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:280
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:311
+msgid "Autoresponder"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:135
+msgid "Autoresponder log"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:135
+msgid "(for <b>ALL</b> Autoresponders through MailPress)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:135
+msgid "Number of Autoresponder log files : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:153
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Autoresponders.class.php:31
+msgid "You did not enter a valid autoresponder name."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:161
+msgid "The autoresponder you are trying to create already exists."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:184
+#, php-format
+msgid "Autoresponder <a href=\"#%s\">%s</a> added"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:299
+msgid "No autoresponder"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:305
+msgid "Link to :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:327
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:416
+msgid "Year"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:333
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:422
+msgid "Month"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:339
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:428
+msgid "Week"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:345
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:434
+msgid "Day"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:351
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:440
+msgid "Hour"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:363
+msgid "Add"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_autoresponder.php:366
+msgid "Not more than one year between two scheduled mails."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:130
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:151
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:189
+msgid "Batches"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:141
+msgid "Batch"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:141
+msgid "Batch log"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:141
+msgid "Number of Batch log files : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:165
+msgid "Batch current status"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:174
+msgid "Batch status"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:180
+msgid "Total recipients"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:182
+msgid "Try/Pass"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:183
+msgid "Processed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:194
+#, php-format
+msgid "Failed (%1$s)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:211
+#, php-format
+msgid "%1$s of %2$s sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_batch_send.php:215
+msgid "Pending..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:157
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:195
+msgid "POP3"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:168
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:199
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:208
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:206
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:237
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:246
+msgid "Bounces"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:168
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:206
+msgid "Bounces log"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:168
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:206
+msgid "Number of Bounces log files : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:215
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:253
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u002.php:56
+msgid "(deleted)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling.php:229
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bounce_handling_II.php:267
+msgid "Bounce rate"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bulk_import.php:27
+msgid "Bulk Add"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bulk_import.php:36
+msgid "Require Authorization"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bulk_import.php:38
+msgid "email,name;email,name;..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bulk_import.php:57
+#, php-format
+msgid "%s subscriber added"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_bulk_import.php:57
+#, php-format
+msgid "%s subscribers added"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:134
+msgid "Notify me of follow-up comments via email."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:150
+#, php-format
+msgid "You are subscribed to this entry. %1$s."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:150
+msgid "Manage your subscriptions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:231
+#, php-format
+msgid "[%1$s] New Comment (%2$s)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:261
+msgid "to comments"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:262
+msgid "to blog & comments"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:370
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:404
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:391
+msgid "Subscriptions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_comment.php:461
+msgid "Subscriber"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_filter_img.php:178
+msgid "Image filter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:104
+msgid "MailPress Forms"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:129
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Forms.class.php:77
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Forms_fields.class.php:78
+msgid "You did not enter a valid label."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:136
+msgid "You did not enter a valid email."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:159
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:185
+#, php-format
+msgid "form <a href=\"#%s\">%s</a> added"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:174
+msgid "Problems trying to duplicate form."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:205
+msgid "You did not enter a valid description."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:231
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:257
+#, php-format
+msgid "field <a href=\"#%s\">%s</a> added"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:246
+msgid "Problems trying to duplicate field."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:278
+msgid "Edit form"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:279
+msgid "Edit fields"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:280
+msgid "Edit template"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_form.php:291
+#, php-format
+msgid "Preview \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_import.php:60
+msgid "MailPress Import/Export"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_import.php:71
+msgid "Import/Export log"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_import.php:71
+msgid "(for <b>ALL</b> imports/exports through MailPress)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_import.php:71
+msgid "Number of Import/Export log files : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:266
+msgid "<br />Mailing lists added"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:356
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:357
+msgid "Uncategorized"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:387
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:275
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:378
+msgid "MailPress Mailing lists"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:420
+msgid "Default Mailing list"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:477
+msgid "All Mailing lists"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:482
+msgid "Most Used"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:500
+msgid "+ Add New mailing list"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:505
+msgid "Add New mailinglist"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:509
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:511
+msgid "Parent Mailing list"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:596
+msgid "View all mailing lists"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:646
+msgid "Uncategorized "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:658
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Autoresponders_event_mailinglist_abstract.class.php:15
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:95
+msgid "Mailing list"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:695
+msgid "You did not enter a valid mailing list name."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:703
+msgid "The mailing list you are trying to create already exists."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_mailinglist.php:735
+#, php-format
+msgid "Mailing list <a href=\"#%s\">%s</a> added"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_name_fields.php:67
+msgid "Friend"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:214
+msgid "<br />Newsletters added"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:382
+msgid "Post test"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:406
+msgid "Newsletters show at most"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:412
+msgid "posts <i>(blank = WordPress Reading setting)</i>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:427
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:100
+msgid "Newsletter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:427
+msgid "Newsletter log"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:427
+msgid "(for <b>ALL</b> Newsletters through MailPress)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:427
+msgid "Number of Newsletter log files : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:465
+msgid "MailPress test"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:479
+msgid "View all newsletters"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:532
+msgid "None "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:572
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:574
+msgid "post not saved"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:577
+msgid "unknown newsletter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:585
+msgid "(Test)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:601
+msgid "Sending mail failed !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_newsletter.php:601
+#, php-format
+msgid "%1$sView%2$s sent mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:55
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:66
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:189
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\dashboard\mails_activity.xml:36
+msgid "Posts"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:89
+msgid "MailPress drafts"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:104
+msgid "Post id unknown, save post first !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:138
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:228
+msgid "Delete link"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_post.php:217
+msgid "up/down"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_roles_and_capabilities.php:86
+msgid "R&amp;C"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:278
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:284
+msgid "Your Subscriptions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:283
+msgid "MailPress - Subscriptions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:315
+msgid "Allow subscriptions from"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:319
+msgid "Registration Form"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:329
+msgid "WP User sync"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:353
+#, php-format
+msgid "WP User # %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:355
+msgid "First name"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:358
+msgid "Last name"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:361
+msgid "Nickname"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_sync_wordpress_user.php:371
+#, php-format
+msgid "%1$s is not a WordPress user"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:97
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:114
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m001.php:19
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m002.php:20
+msgid "See tracking results"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:121
+msgid "re-Geolocate"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:352
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:355
+msgid "View tracking"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:386
+msgid "Open rate"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:387
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m007.php:35
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m009.php:69
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u007.php:35
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u009.php:69
+msgid "Clicks"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:490
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:508
+msgid "subscribe"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:493
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:511
+msgid "unsubscribe"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:496
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:514
+msgid "view html"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:499
+msgid "mail opened"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_tracking.php:502
+msgid "<b>unsubscribed</b>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_view_logs.php:46
+msgid "MailPress Logs"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\add-ons\MailPress_wp_cron.php:46
+msgid "MailPress wp_cron"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\daily.xml:4
+msgid "Daily"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\daily.xml:5
+msgid "Daily newsletter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\daily.xml:10
+#, php-format
+msgid "[%1$s] Daily newsletter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\monthly.xml:4
+msgid "Monthly"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\monthly.xml:5
+msgid "Monthly newsletter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\monthly.xml:10
+#, php-format
+msgid "[%1$s] Monthly newsletter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\new_post.xml:4
+msgid "Per post"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\new_post.xml:5
+msgid "For each new post"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\new_post.xml:10
+#, php-format
+msgid "[%1$s] New Post : {{the_title}}"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\weekly.xml:4
+msgid "Weekly"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\weekly.xml:5
+msgid "Weekly newsletter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\weekly.xml:10
+#, php-format
+msgid "[%1$s] Weekly newsletter"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:4
+#, php-format
+msgid "Per post \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:5
+#, php-format
+msgid "For each new post in %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:10
+#, php-format
+msgid "[%1$s] New post in {{the_category}} : {{the_title}}"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:38
+#, php-format
+msgid "Daily \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:39
+#, php-format
+msgid "Daily newsletter for %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:44
+#, php-format
+msgid "[%1$s] Daily newsletter for {{the_category}}"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:77
+#, php-format
+msgid "Weekly \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:78
+#, php-format
+msgid "Weekly newsletter for %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:83
+#, php-format
+msgid "[%1$s] Weekly newsletter for {{the_category}}"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:118
+#, php-format
+msgid "Monthly \"%1$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:119
+#, php-format
+msgid "Monthly newsletter for %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\advanced\newsletters\categories\categories.xml:124
+#, php-format
+msgid "[%1$s] Monthly newsletter for {{the_category}}"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\comments.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\comments.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\comments.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\comments.php:10
+msgid "Reply"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:254
+#, php-format
+msgid "A new comment on the post \"%s\" is waiting for your approval"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:12
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:163
+#, php-format
+msgid "New comment on your post \"%s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:12
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:16
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:12
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:164
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:256
+#, php-format
+msgid "Author : %1$s (IP: %2$s , %3$s)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:15
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:14
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:18
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:14
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:165
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:257
+#, php-format
+msgid "E-mail : %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:17
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:16
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:16
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:147
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:156
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:166
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:243
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:250
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:258
+#, php-format
+msgid "URL    : %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:19
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:22
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:168
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:260
+msgid "Comment: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:23
+#, php-format
+msgid "Whois  : %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:23
+msgid "Whois"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:28
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:28
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:36
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:28
+msgid "Approve"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:29
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:29
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:37
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:29
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\recent_archives.php:54
+msgid "View all"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:30
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:31
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:38
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:31
+msgid "Trash"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\moderate.php:32
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:33
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\moderate.php:40
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:33
+msgid "Spam"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\new_user.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\new_user.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\reset_pwd.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:12
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\new_user.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\new_user.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\reset_pwd.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\retrieve_pwd.php:12
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\new_user.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\new_user.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\reset_pwd.php:9
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\retrieve_pwd.php:12
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:350
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:376
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:411
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:443
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\new_user.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\new_user.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\new_user.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:351
+#, php-format
+msgid "E-mail: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\new_user.php:22
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:22
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\reset_pwd.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\new_user.php:22
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\reset_pwd.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\new_user.php:22
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\reset_pwd.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:377
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:444
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\new_user.php:25
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\new_user.php:25
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\reset_pwd.php:14
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\new_user.php:25
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\new_user.php:25
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\reset_pwd.php:14
+msgid "Log in"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\MailPress\_loop.php:16
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\_loop.php:18
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\_loop.php:18
+msgid "(more...)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:18
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:18
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:167
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:259
+#, php-format
+msgid "Whois  : http://ws.arin.net/cgi-bin/whois.pl?queryinput=%s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\moderate.php:20
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\moderate.php:20
+msgid "Comment : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\retrieve_pwd.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\retrieve_pwd.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:409
+msgid ""
+"Someone has asked to reset the password for the following site and username."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\retrieve_pwd.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\retrieve_pwd.php:13
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:412
+msgid ""
+"To reset your password visit the following address, otherwise just ignore "
+"this email and nothing will happen."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\plaintext\retrieve_pwd.php:15
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\retrieve_pwd.php:15
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\plaintext\retrieve_pwd.php:15
+msgid "Reset"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\reset_pwd.php:14
+msgid "Log In"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loom.php:10
+msgid "Generated on "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:12
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:19
+msgid "Posted on "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:26
+msgid "by "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:29
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:36
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:37
+msgid "Pages:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:43
+msgid "Posted in "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:48
+msgid "Tagged "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:49
+msgid "1 Comment"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-content\themes\twentyten\_loop.php:49
+msgid "% Comments"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_drafts.php:36
+msgid "+ Add New Draft"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_test.php:3
+msgid "Email: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_test.php:3
+msgid "Newsletter: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\mp_meta_box_post_test.php:39
+msgid "Sending ..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:499
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:505
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:486
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:492
+#, php-format
+msgid "We confirm your subscription to %1$s emails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:501
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:507
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:488
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:494
+msgid "Congratulations !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:511
+msgid "\"Subscription management link\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:512
+msgid "\"Trouble reading link\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:562
+#, php-format
+msgid "Draft saved at %s."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:562
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:592
+msgid "g:i:s a"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:572
+msgid "Someone"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:573
+#, php-format
+msgid "Autosave disabled: %s is currently editing this mail."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:592
+#, php-format
+msgid "Revision saved at %s."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:738
+msgid "Cannot Open Attachment 1!"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:739
+msgid "Cannot Open Attachment 2! "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:739
+msgid "file_fullpath"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Actions.class.php:752
+msgid "Cannot Open File !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Admin_page.class.php:7
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Admin_page.class.php:37
+#, php-format
+msgid "<a href=\"%1$s\" target=\"_blank\">Documentation</a>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Admin_page.class.php:38
+#, php-format
+msgid "<a href=\"%1$s\" target=\"_blank\">Support Forum</a>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Admin_page.class.php:64
+#, php-format
+msgid "Get help with \"%s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Admin_page.class.php:64
+msgid "Get help with this page"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Admin_page_list.class.php:96
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_AutoRefresh_js.class.php:12
+msgid "Auto refresh"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_AutoRefresh_js.class.php:13
+#, php-format
+msgid "%1$s Autorefresh %2$s every %3$s sec"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_AutoRefresh_js.class.php:16
+msgid "Autorefresh in %i% sec"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Forms.class.php:233
+#, php-format
+msgid "[%1$s] Your form receipt \"%2$s\" (%3$s)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Forms_fields.class.php:216
+msgid "Visitor email"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Forms_fields.class.php:235
+msgid "Visitor name"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Forms_fields.class.php:253
+msgid "Mail sent if checked"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Forms_fields.class.php:254
+msgid "Check to get a copy"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail.class.php:117
+msgid "MAILPRESS [WARNING] - Mail is empty"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mailinglists.class.php:50
+msgid "You did not enter a mailing list name."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:431
+msgid "j F, Y @ G:i"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:432
+#, php-format
+msgid "%s [Autosave]"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:433
+#, php-format
+msgid "%s [Current Revision]"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:473
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:499
+msgid "Restore"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:524
+msgid "Compare Revisions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:540
+msgid "Date Created"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mails.class.php:542
+msgid "Actions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:6
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:7
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:10
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:14
+msgid "unknown user"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:8
+msgid "cannot activate user"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:9
+msgid "user already active"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:11
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:12
+msgid "user not a recipient"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:13
+msgid "unknown mail"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:38
+#, php-format
+msgid "<p> ERROR # %1$s (%2$s) !</p>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:39
+msgid "Check you are using the appropriate link."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:58
+msgid "Subscription confirmed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:61
+#, php-format
+msgid "<p><b>%1$s</b> has successfully subscribed.</p>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:63
+#, php-format
+msgid "<a href=\"%1$s\">Manage Subscription</a>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:77
+#, php-format
+msgid "Manage Subscription (%1$s)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:82
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:182
+msgid "Cancelled action"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:156
+msgid "Delete Subscription"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:168
+msgid "Unsubscribe"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:175
+#, php-format
+msgid ""
+"<p>We confirm that the email address <b>%1$s</b> has been unsubscribed.</p>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:188
+#, php-format
+msgid ""
+"<p>Are you sure you want to unsubscribe <b>%1$s</b> from <b>%2$s</b>.</p>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:223
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:258
+#, php-format
+msgid "<p> From : <b>%1$s</b></p>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:224
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Mail_links.class.php:259
+#, php-format
+msgid "<p> To   : <b>%1$s</b></p>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:145
+#, php-format
+msgid "New trackback on your post \"%s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:146
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:155
+#, php-format
+msgid "Website: %1$s (IP: %2$s , %3$s)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:148
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:157
+msgid "Excerpt: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:149
+msgid "You can see all trackbacks on this post here: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:151
+#, php-format
+msgid "[%1$s] Trackback: \"%2$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:154
+#, php-format
+msgid "New pingback on your post \"%s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:158
+msgid "You can see all pingbacks on this post here: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:160
+#, php-format
+msgid "[%1$s] Pingback: \"%2$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:169
+msgid "You can see all comments on this post here: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:171
+#, php-format
+msgid "[%1$s] Comment: \"%2$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:177
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:266
+#, php-format
+msgid "Trash it: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:179
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:268
+#, php-format
+msgid "Delete it: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:180
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:269
+#, php-format
+msgid "Spam it: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:240
+#, php-format
+msgid "A new trackback on the post\"%s\" is waiting for your approval"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:242
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:249
+#, php-format
+msgid "Website : %1$s (IP: %2$s , %3$s)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:244
+msgid "Trackback excerpt: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:247
+#, php-format
+msgid "A new pingback on the post \"%s\" is waiting for your approval"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:251
+msgid "Pingback excerpt: "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:264
+#, php-format
+msgid "Approve it: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:275
+#, php-format
+msgid "[%1$s] Please moderate: \"%2$s\""
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:329
+#, php-format
+msgid "[%s] Password Lost/Changed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:330
+#, php-format
+msgid "Password Lost and Changed for user: %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:349
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:357
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:384
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:421
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Pluggable.class.php:453
+#, php-format
+msgid "[%s] Your new password"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Themes.class.php:258
+msgid "Anonymous"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Themes.class.php:314
+msgid "Stylesheet is missing."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Themes.class.php:328
+msgid "File not readable."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Themes.class.php:369
+msgid "Template is missing."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:390
+msgid "to blog"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:391
+msgid "all (active + waiting)"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:453
+#, php-format
+msgid "[%1$s] Waiting for %2$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:455
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:463
+#, php-format
+msgid ""
+"Please, confirm your subscription to %1$s emails by clicking the following "
+"link :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:459
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:467
+msgid "If you do not want to receive more emails, ignore this one !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:465
+msgid "Confirm"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Users.class.php:484
+#, php-format
+msgid "[%1$s] Successful subscription for %2$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:6
+msgid "the mailpress subscription form"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:51
+msgid "Title:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:56
+msgid "Button:"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:62
+msgid "\"Manage your subscription\" link ?"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:70
+msgid "Preloaded :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:72
+msgid "css"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:75
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:216
+msgid "jQuery"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:78
+msgid "javascript"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:94
+msgid "Subscribe"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:95
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:229
+msgid "Manage your subscription"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:96
+msgid "Loading..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:98
+msgid "Your email"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:99
+msgid "Your name"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:100
+msgid "Waiting for ..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:101
+msgid "Waiting for your confirmation"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:102
+msgid "You have already subscribed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:104
+msgid "ERROR. resend confirmation email failed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\MP_Widget.class.php:105
+msgid "ERROR in the database : subscriber not inserted"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Autoresponders_event_mailinglist_abstract.class.php:19
+msgid "For that mailinglist"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Forms_field_type_abstract.class.php:142
+#, php-format
+msgid "Templates : %1$s/%2$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Forms_field_type_abstract.class.php:164
+msgid "initial state : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Forms_field_type_abstract.class.php:220
+msgid "On error <small>(to remove a class : -name_of_class)</small>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Import_importer_abstract.class.php:40
+msgid ""
+"Howdy! Upload your file and we&#8217;ll import the emails and much more ... "
+"into this blog."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Import_importer_abstract.class.php:42
+msgid "Choose a file to upload, then click Upload file and import."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Import_importer_abstract.class.php:155
+msgid "See the log"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Import_importer_abstract.class.php:164
+msgid "Import successful"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\MP_Import_importer_abstract.class.php:175
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\autoresponder\events\activate_mp_user.php:7
+msgid "Subscription activated"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\autoresponder\events\activate_mp_user_1st.php:7
+msgid "Subscription 1st activation"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\mails_activity.php:42
+msgid "Misc."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\mails_activity.php:57
+msgid "Mails - Activity"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\mails_activity.php:62
+msgid "MailPress - Mails activity"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\mails_sent.php:58
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m009.php:82
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u009.php:80
+msgid "Mails - send"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\mails_sent.php:62
+msgid "MailPress - Mails sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\recent_archives.php:60
+msgid "MailPress - Recent Archives"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_activity.php:109
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:350
+msgid "waiting"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_activity.php:109
+#, php-format
+msgid "comment%20only"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_activity.php:140
+msgid "Subscribers - Activity"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_activity.php:145
+msgid "MailPress - Subscribers activity"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_map.php:15
+msgid "Subscribers - World"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_map.php:56
+msgid "Africa"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_map.php:57
+msgid "Asia"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_map.php:58
+msgid "Europe"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_map.php:59
+msgid "Middle East"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_map.php:60
+msgid "South America"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_map.php:61
+msgid "USA"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_map.php:62
+msgid "World"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\users_map.php:83
+msgid "MailPress - Subscribers Map"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\_right_now.php:34
+msgid "Mail sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\_right_now.php:34
+msgid "Mails sent"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\_right_now.php:42
+msgid "Active subscriber"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\_right_now.php:42
+msgid "Active subscribers"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\_right_now.php:49
+msgid "Change Theme"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\_right_now.php:51
+#, php-format
+msgid "Current theme is : %s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\_right_now.php:57
+#, php-format
+msgid "and using <span class='b'>MailPress %1$s</span>."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets\_right_now.php:66
+msgid "MailPress - 'Right Now'"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets_comment\posts_most_subs.php:31
+msgid "MailPress - Most subscribed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets_comment\users_per_post.php:127
+msgid "Comments subscribers per post"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\dashboard\widgets_comment\users_per_post.php:157
+msgid "MailPress - Comments subscribers per post"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\button\button.php:13
+msgid "not selected"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\button\button.php:19
+msgid "Button"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\button\settings.xml:32
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:55
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd2\settings.xml:45
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\checkbox\settings.xml:35
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:28
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\settings.xml:45
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\ereg\settings.xml:45
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\settings.xml:42
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:30
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\settings.xml:29
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:54
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\textarea\settings.xml:37
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:26
+msgid "other attributes except 'name' & 'id'"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\button\settings.xml:40
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:90
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd2\settings.xml:66
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\checkbox\settings.xml:43
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:122
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\settings.xml:78
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\ereg\settings.xml:85
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\settings.xml:62
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:50
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\radio\settings.xml:58
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\settings.xml:57
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:95
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\textarea\settings.xml:64
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:90
+msgid "In copy"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\captcha_gd1.php:40
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd2\captcha_gd2.php:34
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\recaptcha\recaptcha.php:24
+msgid "ok"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\captcha_gd1.php:76
+msgid "Captcha 1"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:4
+msgid "random choice"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:74
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:46
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:44
+msgid "Format in form :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:80
+msgid "Style : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:117
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd2\settings.xml:93
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:139
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\settings.xml:100
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\ereg\settings.xml:102
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\settings.xml:79
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:241
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\radio\settings.xml:75
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\settings.xml:74
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:117
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\textarea\settings.xml:81
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:107
+msgid "Controls"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd1\settings.xml:119
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd2\settings.xml:97
+msgid "Captcha"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\captcha_gd2\captcha_gd2.php:70
+msgid "Captcha 2"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\checkbox\checkbox.php:13
+msgid "not checked"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\checkbox\checkbox.php:29
+msgid "Checkbox"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\date.php:82
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\date.php:84
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\date.php:86
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\select.php:48
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\time.php:116
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\time.php:118
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\time.php:122
+msgid "invalid select options"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:3
+msgid "numbers"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:4
+msgid "short text"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:5
+msgid "full text"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:7
+msgid "y m d"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:8
+msgid "d m y"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:9
+msgid "m d y"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:52
+msgid "Date : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:59
+msgid "Month : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:67
+msgid "Years selection :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:73
+msgid "starting at : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:81
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:98
+msgid "or current year"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:90
+msgid "&nbsp;ending at : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\date\settings.xml:106
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:74
+msgid "Format in mail :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\email\settings.xml:66
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:83
+msgid "Filled if found : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\ereg\ereg.php:36
+msgid "Ereg[i] Input "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\ereg\settings.xml:64
+msgid "Case sensitive"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\ereg\settings.xml:73
+msgid "Regular expression :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\file.php:26
+msgid "no file"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\file.php:39
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\file.php:40
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\geotag.php:53
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\geotag.php:54
+msgid "empty"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\file\file.php:52
+msgid "File select"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\geotag.php:53
+msgid "Reverse geocoding :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\geotag.php:230
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:146
+msgid "find place"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\geotag.php:280
+msgid "Geotag"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:3
+msgid "Normal"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:4
+msgid "Satellite"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:5
+msgid "Hybrid"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:6
+msgid "Physical"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:61
+msgid "<b>Map</b>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:66
+msgid "size : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:70
+msgid "width "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:77
+msgid "height "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:85
+msgid "defaults : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:89
+msgid "zoom level "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:97
+msgid "map type "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:106
+msgid "lat "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:113
+msgid "lng "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:121
+msgid "controls : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:125
+msgid "zoom"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:154
+msgid "<b>Lat/Lng</b>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:160
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:188
+msgid "show"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:167
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:195
+msgid "size"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:174
+msgid "disabled"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:182
+msgid "<b>Geocoding</b>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:202
+msgid "button "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:204
+msgid "Find"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:212
+msgid "Already loaded : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:223
+msgid "Google map api"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\geotag\settings.xml:245
+msgid "GMap"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\radio\radio.php:24
+#, php-format
+msgid "\"%1$s\" checked"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\radio\radio.php:41
+msgid "Radio Button"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\radio\settings.xml:38
+msgid "other attributes except 'id'"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\recaptcha\recaptcha.php:55
+msgid "ReCaptcha"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\recaptcha\settings.xml:6
+#, php-format
+msgid "Create a reCAPTCHA <a href=\"%1$s\" target=\"new\">key</a>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\recaptcha\settings.xml:12
+msgid "Public Key :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\recaptcha\settings.xml:21
+msgid "Private Key :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\recaptcha\settings.xml:29
+msgid "Keys"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\select.php:27
+msgid "nothing selected"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\select.php:110
+msgid "Drop-down list"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\settings.xml:48
+msgid "Select options :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\select\settings.xml:49
+msgid "value::text<i>[::selected]</i> or &lt;option ...&lt;/option&gt;"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\text.php:53
+msgid "Text Input"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\text\settings.xml:69
+msgid "Numeric"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\textarea\textarea.php:36
+msgid "Multi-line Input"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\textarea\settings.xml:56
+msgid "Initial value :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\time.php:169
+msgid "am"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\time.php:175
+msgid "pm"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\time.php:214
+msgid "Time"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:3
+msgid "22:10"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:4
+msgid "10:10 am/pm"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:6
+msgid "Server current time"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:7
+msgid "Browser current time"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:50
+msgid "Time : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:57
+msgid "with Time zones"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\form\field_types\time\settings.xml:66
+msgid "Initial value : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:26
+msgid "Unable to determine email location"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:39
+#, php-format
+msgid "<b>File imported</b> : <i>%s</i>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:39
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export.php:23
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export_mailinglist.php:26
+#, php-format
+msgid "<b>Number of records</b> : <i>%s</i>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:96
+msgid ""
+"Optional, you can import the MailPress users in a specific mailing list ..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:103
+msgid "<b>Delete</b> all subscriptions."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:107
+msgid "<b>Add</b> default subscriptions."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:110
+msgid "File scan"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:111
+#, php-format
+msgid ""
+"On the first records (see hereunder), the file scan found that the email is "
+"in column '<strong>%s</strong>'."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:112
+msgid ""
+"However, you can select another column.<br /> Invalid emails will not be "
+"inserted."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:116
+msgid "Choose email column"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:131
+msgid "Choose name column"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:171
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:152
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:144
+msgid "Submit"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:252
+msgid "Import your <strong>csv</strong> file."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\csv.php:252
+msgid "Import Csv"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export.php:23
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export_mailinglist.php:26
+#, php-format
+msgid "<b>File exported</b> : <i>%s</i>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export.php:39
+msgid "Howdy! Ready to export the emails ... into a file."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export.php:87
+msgid "Export your MP users in a <strong>csv</strong> file."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export_mailinglist.php:42
+msgid ""
+"Howdy! Choose your mailing list and we&#8217;ll export the emails ... into a "
+"file."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export_mailinglist.php:47
+msgid "Choose a mailing list :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export_mailinglist.php:101
+msgid "Export your mailing list in a <strong>csv</strong> file."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\export_mailinglist.php:101
+msgid "Export mailing list"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:43
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:42
+msgid "<b>Data imported</b>"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:57
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:55
+msgid "First Things First"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:59
+msgid "Before importing your Subscribe2 datas : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:62
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:60
+msgid "SAVE YOUR DATABASE"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:65
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:63
+msgid "and make sure you can restore it !"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:72
+msgid ""
+"Howdy! Ready to import your <b>Subscribe2</b> data into <b>MailPress</b> ..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:73
+msgid "newsletters"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:74
+msgid "mailing lists"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:75
+msgid "<b>Subscribe2</b> data is stored into the following tables :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:79
+msgid "In this table, 'WP users' subscribers can subscribe to categories."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:81
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:88
+#, php-format
+msgid "You will be able to convert this %1$s to subscriptions in %2$s."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:81
+msgid "'categories subscription'"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:86
+msgid "In this table, subscribers have default subscription set by admin."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:88
+msgid "'default subscription'"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:93
+msgid "Note 1 : The tables are processed in the above order."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:94
+msgid ""
+"Note 2 : If a subscriber already exists in MailPress, the settings for this "
+"email remains <b>unchanged</b>."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:98
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:87
+msgid "Continue"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:119
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:147
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:161
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:113
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:139
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:153
+msgid "Data Analysis"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:124
+msgid "*** ERROR *** Table not detected"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:179
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:210
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:177
+msgid "no data"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:245
+#, php-format
+msgid "You are using %1$s, usermeta will not be processed"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:251
+#, php-format
+msgid "%1$s WP user(s) subscriber(s) found"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:264
+msgid "Categories used in Subscribe2"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:269
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:372
+msgid "MailPress Newsletters"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:354
+#, php-format
+msgid " %1$s subscriber(s) will be imported with status : \"%2$s\" ."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:362
+msgid "Select subscriptions for ACTIVE subscribers :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:504
+msgid "Import data from <strong>subscribe2</strong> plugin."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe2.php:504
+msgid "Import from Subscribe2"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:57
+msgid "Before importing your 'Subscribe to comments' datas : "
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:70
+msgid ""
+"Howdy! Ready to import your <b>Subscribe to comments</b> data into "
+"<b>MailPress</b> ..."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:72
+msgid "<b>Subscribe to comments</b> data are stored into the following table :"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:76
+msgid "In this table, subscribers can subscribe to posts comments."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:78
+msgid "You will be able to convert these subscriptions to MailPress."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:83
+msgid ""
+"Note : If a subscriber already exists in MailPress, only the subscriptions "
+"to comments are added."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:118
+#, php-format
+msgid "*** ERROR *** Column not detected in %1$s"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:166
+#, php-format
+msgid "%1$s subscriber(s) found"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:229
+msgid "Import data from <strong>subscribe to comments</strong> plugin."
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\import\importers\subscribe_to_comments.php:229
+msgid "Import from Subscribe to comments"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\newsletter\processors\day-1.php:54
+msgid "Previous day"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\newsletter\processors\month-1.php:61
+msgid "Previous month"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\newsletter\processors\now.php:103
+msgid "Now"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\newsletter\processors\week-1.php:60
+msgid "Previous week"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\newsletter\schedulers\day.php:21
+msgid "Every day"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\newsletter\schedulers\month.php:27
+msgid "Every month"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\newsletter\schedulers\post.php:11
+msgid "Each post"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\newsletter\schedulers\post_cat.php:11
+msgid "Per post/category"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\newsletter\schedulers\week.php:23
+msgid "Every week"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m001.php:26
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u001.php:57
+msgid "Last 10 actions"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m002.php:27
+msgid "Last 10 users"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m003.php:15
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u003.php:15
+msgid "Opened/day"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m004.php:15
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u004.php:15
+msgid "Clicks/day"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m005.php:54
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u005.php:33
+msgid "System info"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m006.php:108
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u006.php:107
+msgid "Geoip"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m007.php:34
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m009.php:69
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u007.php:34
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u009.php:69
+msgid "Opened"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m007.php:54
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u007.php:54
+msgid "Opened, Clicks/day"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m008.php:16
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u008.php:50
+msgid "Most clicked"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\mail\m009.php:86
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u009.php:84
+msgid "Opened, Clicks/day chart"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\class\options\tracking\user\u002.php:64
+msgid "Last 10 mails"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\html\mail.php:4
+msgid "Classic"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\html\mail.php:5
+msgid "Fresh"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\html\mail.php:65
+msgid "Plaintext View"
+msgstr ""
+
+#: C:\webserver\gnu\gettext\mailpress\mp-includes\html\mail.php:68
+msgid "Html View"
+msgstr ""

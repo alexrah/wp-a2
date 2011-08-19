@@ -1,0 +1,15 @@
+.field_type_button 	{ background: url(button/icon_b.png) 	no-repeat center left; }
+.field_type_captcha_gd1	{ background: url(captcha_gd1/icon_b.png)no-repeat center left; }
+.field_type_captcha_gd2	{ background: url(captcha_gd2/icon_b.png)no-repeat center left; }
+.field_type_checkbox 	{ background: url(checkbox/icon_b.png) 	no-repeat center left; }
+.field_type_date 	{ background: url(date/icon_b.png) 	no-repeat center left; }
+.field_type_ereg 	{ background: url(ereg/icon_b.gif) 	no-repeat center left; }
+.field_type_email 	{ background: url(email/icon_b.png) 	no-repeat center left; }
+.field_type_file 	{ background: url(file/icon_b.png) 	no-repeat center left; }
+.field_type_geotag 	{ background: url(geotag/icon_b.png) 	no-repeat center left; }
+.field_type_radio 	{ background: url(radio/icon_b.png) 	no-repeat center left; }
+.field_type_select 	{ background: url(select/icon_b.png) 	no-repeat center left; }
+.field_type_text 	{ background: url(text/icon_b.png) 	no-repeat center left; }
+.field_type_textarea 	{ background: url(textarea/icon_b.png) 	no-repeat center left; }
+.field_type_time 	{ background: url(time/icon_b.png) 	no-repeat center left; }
+.field_type_recaptcha 	{ background: url(recaptcha/icon_b.png) no-repeat center left; }

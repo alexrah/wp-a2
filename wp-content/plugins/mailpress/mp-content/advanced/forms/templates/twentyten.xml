@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+  <fields>
+    <label><![CDATA[<p><label for='{{field_id}}'>{{label}}</label>{{field}}</p>]]></label>
+    <checkbox><![CDATA[<p>{{field}} <label for='{{field_id}}'>{{label}}</label></p>]]></checkbox>
+    <submit><![CDATA[<p class='form-submit'>{{field}}</p>]]></submit>
+  </fields>
+  <fields_on_error>
+    <label><![CDATA[<p><label for='{{field_id}}'>{{label}}</label><span class='required'>*</span>{{field}}</p>]]></label>
+    <checkbox><![CDATA[<p>{{field}} <label for='{{field_id}}'>{{label}}</label></p>]]></checkbox>
+    <submit><![CDATA[<p class='form-submit'>{{field}}</p>]]></submit>
+  </fields_on_error>
+  <groups>
+    <radio>
+      <before><![CDATA[<!--before--><div>]]></before>
+      <first><![CDATA[<!--first--><span>{{field}}</span>]]></first>
+      <radio><![CDATA[<span>{{field}}</span>]]></radio>
+      <last><![CDATA[<span>{{field}}</span><!--last-->]]></last>
+      <after><![CDATA[</div><!--after--><br />]]></after>
+    </radio>
+    <button>
+      <before><![CDATA[<!--before--><div>]]></before>
+      <first><![CDATA[<!--first--><span>{{field}}</span>]]></first>
+      <button><![CDATA[<span>{{field}}</span>]]></button>
+      <last><![CDATA[<span>{{field}}</span><!--last-->]]></last>
+      <after><![CDATA[</div><!--after--><br />]]></after>
+    </button>
+  </groups>
+  <composite>
+    <captcha_gd1><![CDATA[{{img}}<br />{{input}}]]></captcha_gd1>
+    <captcha_gd2><![CDATA[{{img}}<br />{{input}}]]></captcha_gd2>
+    <recaptcha><![CDATA[<div id='{{id}}'>{{img}}</div>]]></recaptcha>
+    <date>
+      <ymd><![CDATA[{{y}}&nbsp;{{m}}&nbsp;{{d}}]]></ymd>
+      <dmy><![CDATA[{{d}}&nbsp;{{m}}&nbsp;{{y}}]]></dmy>
+      <mdy><![CDATA[{{m}}&nbsp;{{d}}&nbsp;{{y}}]]></mdy>
+    </date>
+    <time>
+      <alone><![CDATA[{{h}}&nbsp;:&nbsp;{{mn}}]]></alone>
+      <ampm><![CDATA[{{h}}&nbsp;:&nbsp;{{mn}}&nbsp;{{am}}&nbsp;<label id="{{id_am}}_label" for="{{id_am}}">{{text_am}}</label>&nbsp;{{pm}}&nbsp;<label id="{{id_pm}}_label" for="{{id_pm}}">{{text_pm}}</label>]]></ampm>
+      <tz><![CDATA[{{h}}&nbsp;:&nbsp;{{mn}}&nbsp;{{tz}}]]></tz>
+      <ampm_tz><![CDATA[{{h}}&nbsp;:&nbsp;{{mn}}&nbsp;{{am}}&nbsp;<label id="{{id_am}}_label" for="{{id_am}}">{{text_am}}</label>&nbsp;{{pm}}&nbsp;<label id="{{id_pm}}_label" for="{{id_pm}}">{{text_pm}}</label>&nbsp;{{tz}}]]></ampm_tz>
+    </time>
+    <geotag>
+      <alone><![CDATA['{{map}}']]></alone>
+      <latlng><![CDATA[{{map}}lat:{{lat}}&nbsp;lng:{{lng}}]]></latlng>
+      <geocode><![CDATA[{{map}}{{geocode}}&nbsp;{{geocode_button}}]]></geocode>
+      <latlng_geocode><![CDATA[{{map}}lat:{{lat}}&nbsp;lng:{{lng}}<br />{{geocode}}&nbsp;{{geocode_button}}]]></latlng_geocode>
+    </geotag>
+  </composite>
+  <message>
+    <ok><![CDATA[<span>{{message}}</span>]]></ok>
+    <ko><![CDATA[<span style='color:red;'>{{message}}</span>]]></ko>
+  </message>
+  <form><![CDATA[<div id='comments'><div id='respond' style='border:none;margin:0;'>{{message}}{{form}}</div></div>]]></form>
+</templates>
