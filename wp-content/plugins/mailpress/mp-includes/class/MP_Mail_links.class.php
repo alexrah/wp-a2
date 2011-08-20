@@ -55,12 +55,12 @@ class MP_Mail_links
 		$email 	= MP_Users::get_email($mp_user_id);
 		$url 		= MP_Users::get_unsubscribe_url($mp_confkey);
 
-		$title 	= __('Subscription confirmed', MP_TXTDOM);
+		$title 	= __('Sottoscrizione confermata', MP_TXTDOM);
 		$content 	= '';
 
-		$content .= sprintf(__('<p><b>%1$s</b> has successfully subscribed.</p>', MP_TXTDOM), $email);
+		$content .= sprintf(__('<p><b>%1$s</b> aggiunto con successo.</p>', MP_TXTDOM), $email);
 		$content .= "<br />\n";
-		$content .= "<h3>" . sprintf(__('<a href="%1$s">Manage Subscription</a>', MP_TXTDOM), $url) . "</h3>\n";
+		$content .= "<h3>" . sprintf(__('<a href="%1$s">Gestione Sottoscrizioni</a>', MP_TXTDOM), $url) . "</h3>\n";
 		$content .= "<br />\n";
 		return array('title' => $title, 'content' => $content);
 	}
@@ -74,7 +74,7 @@ class MP_Mail_links
 		$active = ('active' == $mp_user->status) ? true : false;
 		$comment = ($active || ('waiting' == $mp_user->status));
 
-		$title    =  sprintf(__('Manage Subscription (%1$s)', MP_TXTDOM), $mp_user->email);
+		$title    =  sprintf(__('Gestione Sottoscrizioni (%1$s)', MP_TXTDOM), $mp_user->email);
 		$content = '';
 
 		if (isset($_POST['cancel']))
@@ -102,7 +102,7 @@ class MP_Mail_links
 		$content .= "<form action='' method='post'>\n";
 
 		$content .= '<div id="mp_mail_links_name">';
-		$content .= "<h3>" . __('Name', MP_TXTDOM) . "</h3>\n";
+		$content .= "<h3>" . __('Nome', MP_TXTDOM) . "</h3>\n";
 		$content .= "<input name='mp_user_name' type='text' value=\"" . esc_attr($mp_user->name) . "\" size='30' />\n";
 		$content .= '</div>'; 
 
@@ -153,7 +153,7 @@ class MP_Mail_links
 		}
 		$content .= "</form>\n";
 		$content .= "<br />\n";
-		$content .= "<h3><a href='" . MP_Users::get_delall_url($mp_confkey) . "'>" . __('Delete Subscription', MP_TXTDOM) . "</a></h3>\n";
+		$content .= "<h3><a href='" . MP_Users::get_delall_url($mp_confkey) . "'>" . __('Cancella Sottoscrizione', MP_TXTDOM) . "</a></h3>\n";
 		$content .= "<br />\n";
 		return array('title' => $title, 'content' => $content);
 	}
