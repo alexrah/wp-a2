@@ -34,7 +34,16 @@ $options_post[] = array( "name" => "Galleria On/Off",
 					,
 					"type" => "select");  
 					
-						
+$options_post[] = array( "name" => "Didascalia Immagini On/Off",
+          "id" => "slideshow_captions",
+          "desc"=> "Selezionare se visualizzare la disascalia", 
+          "std" => "on",
+          "options" => array(
+             "off",
+              "on"
+          ),    
+          "type" => "select"); 
+
 $options_post[] = array( "name" => "Set Fotografico",
 					"id" => "slideshow_set",
 					"desc"=> "Seleziona il set fotografico da visualizzare in questa pagina",

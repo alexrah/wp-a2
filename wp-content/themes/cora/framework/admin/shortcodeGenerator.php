@@ -1830,13 +1830,28 @@ $options_shortcode = array(
 				"type" => "multiselect",
 			),
 		),
-		
-		
-		
-		
-		
 	),
-	
+	array(
+		"name" => "Newsletter",
+		"value" => "Newsletter",
+		"options" => array(
+			array(
+				"name" => "number of posts",
+				"id" => "count",
+				"std" => '3',
+				"min" => 0,
+				"max" => 50,
+				"step" => "1",
+				"type" => "range"
+			),
+			array(
+				"name" => "Category",
+				"id" => "cat",
+				"type" => "multiselect",
+			),
+		),
+	),
+
 	
 	
 );				

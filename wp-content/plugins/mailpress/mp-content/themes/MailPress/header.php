@@ -9,20 +9,18 @@
 		<div <?php $this->classes('body'); ?>>
 			<div <?php $this->classes('wrapper'); ?>>
 <?php if (isset($this->args->viewhtml)) { ?>
-				<div <?php $this->classes('mail_link'); ?>>
-					Email not displaying correctly ? <a href='{{viewhtml}}' <?php $this->classes('mail_link_a'); ?>>View it in your browser</a>
+				<div <?php $this->classes('mail_link grey'); ?>>
+				Problemi di visualizzazione? <a href='{{viewhtml}}' <?php $this->classes('mail_link_a'); ?>>Apri l'email nel tuo browser</a>
 				</div>
 <?php } ?>
 				<table <?php $this->classes('nopmb htable htr'); ?> cellspacing='0' cellpadding='0'>	
 					<tr>
-						<td <?php $this->classes('nopmb txtleft'); ?>>
+						<td <?php $this->classes('nopmb txtleft grey'); ?>>
 							<img src='MailPresslogo.png' <?php $this->classes('logo'); ?> align='' alt=''/>
 						</td>
-						<td style='width:50px;'></td>
-						<td <?php $this->classes('nopmb'); ?>></td>
 					</tr>
 				</table>
-				<table <?php $this->classes('htdate'); ?> cellspacing='0' cellpadding='0' height='70px'>
+				<table <?php $this->classes('htdate'); ?> cellspacing='0' cellpadding='0' height='20px'>
 					<tr>
 						<td <?php $this->classes('hdate'); ?>>
 							<?php echo mysql2date('F j, Y', current_time('mysql')); ?>

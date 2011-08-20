@@ -23,7 +23,7 @@ if (isset($_GET['view']))
 
 get_header();
 ?>
-	<div id='content' class='widecolumn'>
+	<div align="center" id='content' class='widecolumn' style="margin-top:125px;">
 		<div>
 			<h2><?php echo $results ['title']; ?></h2>
 			<div>

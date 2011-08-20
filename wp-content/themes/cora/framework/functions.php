@@ -160,6 +160,7 @@ class Theme {
 		require_once (THEME_SHORTCODES . '/portfoliojquery.php');
 		require_once (THEME_SHORTCODES . '/blog.php');
 		require_once (THEME_SHORTCODES . '/installazioni.php');
+		require_once (THEME_SHORTCODES . '/newsletter.php');
 	}
 	
 	function admin() {

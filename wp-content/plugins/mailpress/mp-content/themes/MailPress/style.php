@@ -33,8 +33,9 @@ $_classes = array(
 				font-size:10px;
 				font-style:italic;
 				line-height:5px;
-				margin:0 0 5px;
-				padding:0;
+				margin:0 0 0px;
+				padding:0 0 5px;
+        padding-top: 5px;
 				text-align:center;
 				font-family:Verdana,Arial,sans-serif;
 				vertical-align:baseline;",
@@ -65,12 +66,16 @@ $_classes = array(
 'htr'			=> "	height:60px;",
 
 'logo'		=> "	border:none;
-				padding:5px ",
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+				padding:0px ",
+
+'grey'		=> "	background:#F0F0F0;",
 
 'htdate'		=> "	width:100%;
 				padding:0;
 				margin:0;
-				height:30px;
+				height:20px;
 				border-bottom:1px solid #C6D9E9;
 				background:#DCFAF1;",
 
@@ -79,7 +84,7 @@ $_classes = array(
 				background:#F0F0F0;
 				font-family:Georgia,Times,serif;
 				color:#555;
-				font-size:20px;
+				font-size:15px;
 				text-align:right;",
 
 'main'		=> "	margin:0;
@@ -161,11 +166,11 @@ $_classes = array(
 
 'fltd'		=> "	font-family:Verdana,sans-serif;
 				color:#2583AD;
-				font-size:10px;",
+				font-size:10px;text-align:right;",
 
 'frtd'		=> "	font-family:Georgia,Times,serif;
 				color:#8c8c8c;
-				font-size:14px;text-align:right;"
+				font-size:14px;text-align:left;"
 
 );
 ?>

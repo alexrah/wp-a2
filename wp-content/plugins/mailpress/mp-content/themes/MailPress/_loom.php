@@ -6,7 +6,7 @@
 <?php if (isset($_the_title)) echo $_the_title; else $this->the_title(); ?>
 				</h2>
 				<small <?php $this->classes('nopmb cdate'); ?>>
-<?php echo mysql2date('F j, Y', current_time('mysql')); ?>
+<?php // echo mysql2date('F j, Y', current_time('mysql')); ?>
 				</small>
 				<div <?php $this->classes('nopmb'); ?>>
 					<p <?php $this->classes('nopmb cp'); ?>>
