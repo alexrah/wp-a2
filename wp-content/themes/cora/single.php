@@ -187,8 +187,14 @@ switch($slider){
   </tbody>
 </table>
               </div>
+<br />
+<br />
+
+
+
 <h3>intervento Felline</h3>
-<blockquote>
+             
+             <blockquote>
 <h5><?php echo get_post_meta($post->ID, 'Intervento Felline 1', true); ?></h5>
 <h5><?php echo get_post_meta($post->ID, 'Intervento Felline 2', true); ?></h5>
 <h5><?php echo get_post_meta($post->ID, 'Intervento Felline 3', true); ?></h5>
