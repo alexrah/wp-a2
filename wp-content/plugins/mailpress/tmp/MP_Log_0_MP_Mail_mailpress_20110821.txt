@@ -1,0 +1,138 @@
+
+2011-08-21 02:19:46 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&id=22&status=draft&mode=list
+2011-08-21 02:19:46 000000 --  **** Purged log file **** /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/mailpress/tmp/MP_Log_0_MP_Mail_mailpress_20110819.txt
+2011-08-21 02:19:46 000000 --  **** Purged log file **** /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/mailpress/tmp/MP_Log_0_MP_Mail_mailpress_20110820.txt
+2011-08-21 02:19:46 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:19:46 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 02:19:47 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:19:47 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 02:19:47 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 02:19:47 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 02:22:26 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 02:22:26 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:22:26 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 02:22:27 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:22:27 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 02:22:27 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 02:22:27 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 02:25:41 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 02:25:42 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:25:42 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 02:25:42 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:25:42 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 02:25:42 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 02:25:42 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 02:31:20 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 02:31:21 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:31:21 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 02:31:21 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:31:21 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 02:31:21 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 02:31:21 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 02:35:07 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 02:35:07 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:35:07 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 02:35:08 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:35:08 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 02:35:08 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 02:35:08 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 02:36:18 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 02:36:18 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:36:18 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 02:36:18 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 02:36:18 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 02:36:18 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 02:36:18 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 03:12:02 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 03:12:02 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 03:12:02 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 03:12:02 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 03:12:02 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 03:12:02 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 03:12:02 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 03:14:10 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 03:14:10 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 03:14:10 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 03:14:10 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 03:14:10 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 03:14:10 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 03:14:10 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 03:22:34 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 03:22:34 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 03:22:34 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 03:22:34 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 03:22:34 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 03:22:34 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 03:22:34 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 04:20:46 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 04:20:46 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:20:46 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 04:20:46 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:20:46 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 04:20:46 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 04:20:46 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 04:22:34 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 04:22:35 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:22:35 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 04:22:35 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:22:35 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 04:22:35 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 04:22:35 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 04:23:53 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 04:23:53 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:23:53 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 04:23:54 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:23:54 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 04:23:54 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 04:23:54 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 04:35:23 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 04:35:24 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:35:24 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 04:35:24 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:35:24 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 04:35:24 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 04:35:24 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 04:45:33 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&id=22&status=draft&mode=list
+2011-08-21 04:45:34 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:45:34 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 04:45:34 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:45:34 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 04:45:34 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 04:45:34 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 04:50:31 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 04:50:31 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:50:31 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 04:50:31 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:50:31 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 04:50:31 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 04:50:31 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 04:53:08 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 04:53:08 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:53:08 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 04:53:09 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:53:09 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 04:53:09 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 04:53:09 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 
+
+2011-08-21 04:54:24 000000 --  **** Start logging **** MP_Mail_mailpress *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=1&id=22
+2011-08-21 04:54:24 000000 -- MAILPRESS [NOTICE] - Disconnecting from fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:54:24 000000 -- MAILPRESS [NOTICE] - Disconnected (MP_Mail)
+2011-08-21 04:54:24 000000 -- MAILPRESS [NOTICE] - Connecting to fellinei_a2newrestored (MP_Mail)
+2011-08-21 04:54:24 000000 -- MAILPRESS [NOTICE] - Connected (MP_Mail)
+2011-08-21 04:54:24 000000 -- MAILPRESS [NOTICE] - :::: MAIL SAVED ::::
+2011-08-21 04:54:24 000000 --  **** End   logging **** MP_Mail_mailpress *** level : 2 **** status : TRUE 

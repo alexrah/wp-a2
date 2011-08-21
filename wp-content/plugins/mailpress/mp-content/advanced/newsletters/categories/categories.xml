@@ -1,0 +1,155 @@
+﻿<newsletter id='post_category_<?php echo $category->cat_ID; ?>'>
+
+	<descriptions>
+		<admin><![CDATA[<?php printf(__('Per post "%1$s"', MP_TXTDOM), $category->cat_name); ?>]]></admin>
+		<blog><![CDATA[<?php  printf(__('For each new post in %1$s', MP_TXTDOM), $category->cat_name); ?>]]></blog>
+	</descriptions>
+
+	<mail>
+		<Template>singlecat</Template>
+		<subject><![CDATA[<?php printf( __('[%1$s] New post in {{the_category}} : {{the_title}}', MP_TXTDOM), get_bloginfo('name')); ?>]]></subject>
+		<the_category><![CDATA[<?php echo $category->cat_name; ?>]]></the_category>
+	</mail>
+
+	<processor>
+		<id>now</id>
+		<query_posts>
+			<cat><?php echo $category->cat_ID; ?></cat>
+		</query_posts>
+	</processor>
+
+	<scheduler>
+		<id>post_cat</id>
+		<args>            <!-- release the newsletter -->
+			<hour>00</hour>		<!-- [00 to 23] -->
+			<minute>00</minute>	<!-- [00 to 59] -->
+		</args>
+	</scheduler>
+
+	<params>
+		<cat_id><?php echo $category->cat_ID; ?></cat_id>
+	</params>
+
+</newsletter>
+
+<newsletter id='daily_category_<?php echo $category->cat_ID; ?>'>
+
+	<descriptions>
+		<admin><![CDATA[<?php printf(__('Daily "%1$s"', MP_TXTDOM), $category->cat_name); ?>]]></admin>
+		<blog><![CDATA[<?php  printf(__('Daily newsletter for %1$s', MP_TXTDOM), $category->cat_name); ?>]]></blog>
+	</descriptions>
+
+	<mail>
+		<Template>dailycat</Template>
+		<subject><![CDATA[<?php printf( __('[%1$s] Daily newsletter for {{the_category}}', MP_TXTDOM), get_bloginfo('name')); ?>]]></subject>
+		<the_category><![CDATA[<?php echo $category->cat_name; ?>]]></the_category>
+	</mail>
+
+	<processor>
+		<id>day-1</id>
+		<threshold>MailPress_daily_category_<?php echo $category->cat_ID; ?></threshold><!-- stored on wordpress options table -->
+		<query_posts>
+			<cat><?php echo $category->cat_ID; ?></cat>
+		</query_posts>
+		<args>            <!-- start of the day -->
+			<hour>00</hour>		<!-- [00 to 23] -->
+			<minute>00</minute>	<!-- [00 to 59] -->
+		</args>
+	</processor>
+
+	<scheduler>
+		<id>day</id>
+		<args>            <!-- release the newsletter -->
+			<hour>00</hour>		<!-- [00 to 23] -->
+			<minute>00</minute>	<!-- [00 to 59] -->
+		</args>
+	</scheduler>
+
+	<params>
+		<cat_id><?php echo $category->cat_ID; ?></cat_id>
+	</params>
+
+</newsletter>
+
+<newsletter id='weekly_category_<?php echo $category->cat_ID; ?>'>
+
+	<descriptions>
+		<admin><![CDATA[<?php printf(__('Weekly "%1$s"', MP_TXTDOM), $category->cat_name); ?>]]></admin>
+		<blog><![CDATA[<?php printf(__('Weekly newsletter for %1$s', MP_TXTDOM), $category->cat_name); ?>]]></blog>
+	</descriptions>
+
+	<mail>
+		<Template>weeklycat</Template>
+		<subject><![CDATA[<?php printf( __('[%1$s] Weekly newsletter for {{the_category}}', MP_TXTDOM), get_bloginfo('name')); ?>]]></subject>
+		<the_category><![CDATA[<?php echo $category->cat_name; ?>]]></the_category>
+	</mail>
+
+	<processor>
+		<id>week-1</id>
+		<threshold>MailPress_weekly_category_<?php echo $category->cat_ID; ?></threshold><!-- stored on wordpress options table -->
+		<query_posts>
+			<cat><?php echo $category->cat_ID; ?></cat>
+		</query_posts>
+		<args>            <!-- start of the week -->
+			<wday>1</wday> 		<!-- [1 > Monday, ... 7 > Sunday] (default : wordpress start of week) -->
+			<hour>00</hour>		<!-- [00 to 23] -->
+			<minute>00</minute>	<!-- [00 to 59] -->
+		</args>
+	</processor>
+
+	<scheduler>
+		<id>week</id>
+		<args>            <!-- release the newsletter -->
+			<wday>1</wday>		<!-- [1 > Monday, ... 7 > Sunday] (default : wordpress start of week) -->
+			<hour>00</hour>		<!-- [00 to 23] -->
+			<minute>00</minute>	<!-- [00 to 59] -->
+		</args>
+	</scheduler>
+
+	<params>
+		<cat_id><?php echo $category->cat_ID; ?></cat_id>
+	</params>
+
+</newsletter>
+
+<newsletter id='monthly_category_<?php echo $category->cat_ID; ?>'>
+
+	<descriptions>
+		<admin><![CDATA[<?php printf(__('Monthly "%1$s"', MP_TXTDOM), $category->cat_name); ?>]]></admin>
+		<blog><![CDATA[<?php printf(__('Monthly newsletter for %1$s', MP_TXTDOM), $category->cat_name); ?>]]></blog>
+	</descriptions>
+
+	<mail>
+		<Template>monthlycat</Template>
+		<subject><![CDATA[<?php printf( __('[%1$s] Monthly newsletter for {{the_category}}', MP_TXTDOM), get_bloginfo('name')); ?>]]></subject>
+		<the_category><![CDATA[<?php echo $category->cat_name; ?>]]></the_category>
+	</mail>
+
+	<processor>
+		<id>month-1</id>
+		<threshold>MailPress_monthly_category_<?php echo $category->cat_ID; ?></threshold><!-- stored on wordpress options table -->
+		<query_posts>
+			<cat><?php echo $category->cat_ID; ?></cat>
+		</query_posts>
+		<args>            <!-- start of the month -->
+			<day>1</day>		<!-- [1, 2, ..., 28 / 0 : end of month] (default : 1) -->
+			<hour>00</hour>		<!-- [00 to 23] -->
+			<minute>00</minute>	<!-- [00 to 59] -->
+		</args>
+	</processor>
+
+	<scheduler>
+		<id>month</id>
+		<args>            <!-- release the newsletter -->
+			<day>1</day>		<!-- [1, 2, ..., 28 / 0 : end of month] (default : 1) -->
+			<hour>00</hour>		<!-- [00 to 23] -->
+			<minute>00</minute>	<!-- [00 to 59] -->
+		</args>
+	</scheduler>
+
+
+	<params>
+		<cat_id><?php echo $category->cat_ID; ?></cat_id>
+	</params>
+
+</newsletter>

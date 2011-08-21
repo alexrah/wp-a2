@@ -81,6 +81,7 @@ function theme_shortcode_blog($atts, $content = null, $code) {
 	
 
 		$col[$i] .= '</div>';
+		$col[$i] .= '<br />';
 		
 		$i++;
 		if($i==5) {$i=1; $j++;}

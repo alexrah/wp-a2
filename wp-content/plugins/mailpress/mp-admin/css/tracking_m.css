@@ -1,0 +1,10 @@
+#tracking_mp_m007 td, #tracking_mp_m007 th {
+	font-size:11px;
+}
+#tracking_mp_m007 th {
+	width:75px;
+}
+#tracking_mp_m007 td.number {
+	font-weight:bold;
+	text-align:right;
+}

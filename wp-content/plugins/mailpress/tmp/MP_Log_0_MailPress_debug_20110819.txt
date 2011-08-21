@@ -1,0 +1,268 @@
+
+2011-08-19 09:19:54 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-cron.php?doing_wp_cron
+2011-08-19 09:19:54 000000 -- PHP [E_WARNING] 2 : mysql_num_fields() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1115 
+2011-08-19 09:19:54 000000 -- PHP [E_WARNING] 2 : mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1120 
+2011-08-19 09:19:54 000000 -- PHP [E_WARNING] 2 : mysql_free_result() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1125 
+2011-08-19 09:19:54 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:19:53 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/index.php
+2011-08-19 09:19:54 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:20:39 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=iview&id=19&KeepThis=true&TB_iframe=true
+2011-08-19 09:20:40 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:20:40 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=viewadmin&id=19&main_id=19&type=html
+2011-08-19 09:20:40 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:23:24 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-cron.php?doing_wp_cron
+2011-08-19 09:23:24 000000 -- PHP [E_WARNING] 2 : mysql_num_fields() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1115 
+2011-08-19 09:23:24 000000 -- PHP [E_WARNING] 2 : mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1120 
+2011-08-19 09:23:24 000000 -- PHP [E_WARNING] 2 : mysql_free_result() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1125 
+2011-08-19 09:23:24 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:23:24 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=iview&id=19&KeepThis=true&TB_iframe=true
+2011-08-19 09:23:25 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:23:25 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=viewadmin&id=19&main_id=19&type=html
+2011-08-19 09:23:26 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:25:22 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=iview&id=19&KeepThis=true&TB_iframe=true
+2011-08-19 09:25:22 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:25:22 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=viewadmin&id=19&main_id=19&type=html
+2011-08-19 09:25:23 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:25:31 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=viewadmin&id=19&main_id=19&type=html
+2011-08-19 09:25:32 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:27:42 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-cron.php?doing_wp_cron
+2011-08-19 09:27:42 000000 -- PHP [E_WARNING] 2 : mysql_num_fields() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1115 
+2011-08-19 09:27:42 000000 -- PHP [E_WARNING] 2 : mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1120 
+2011-08-19 09:27:42 000000 -- PHP [E_WARNING] 2 : mysql_free_result() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1125 
+2011-08-19 09:27:42 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:27:42 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=viewadmin&id=19&main_id=19&type=html
+2011-08-19 09:27:43 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:41:25 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-cron.php?doing_wp_cron
+2011-08-19 09:41:25 000000 -- PHP [E_WARNING] 2 : mysql_num_fields() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1115 
+2011-08-19 09:41:25 000000 -- PHP [E_WARNING] 2 : mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1120 
+2011-08-19 09:41:25 000000 -- PHP [E_WARNING] 2 : mysql_free_result() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1125 
+2011-08-19 09:41:25 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:41:24 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails
+2011-08-19 09:41:25 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:41:30 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&id=19&mode=list
+2011-08-19 09:41:31 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:41:44 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&id=19&mode=list
+2011-08-19 09:41:45 000000 --  mp_redirect : >> admin.php?page=mailpress_mails&file=write&sent=5&id=19 << 
+2011-08-19 09:41:45 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:41:44 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&id=19&mode=list
+2011-08-19 09:41:45 000000 --  mp_redirect : >> admin.php?page=mailpress_mails&file=write&sent=5&id=19 << 
+2011-08-19 09:41:45 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+2011-08-19 09:41:45 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:41:46 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=write&sent=5&id=19
+2011-08-19 09:41:46 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:42:28 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=o&mm=55&co=h&us=5921ec3e8596ed63c4e93f22b6313af5
+2011-08-19 09:42:29 000000 --  mp_die : >> 1 << 
+2011-08-19 09:42:29 000000 -- <br />
+<b>Notice</b>:  Undefined variable: of_categories in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/themes/cora/framework/admin/shortcodeGenerator.php</b> on line <b>1710</b><br />
+<br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+GIF89a  ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   ÿÿÿ                                                                                                                     !ù  Ø ,        ± ;
+2011-08-19 09:42:29 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:42:28 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=o&mm=55&co=h&us=5921ec3e8596ed63c4e93f22b6313af5
+2011-08-19 09:42:29 000000 --  mp_die : >> 1 << 
+2011-08-19 09:42:29 000000 -- <br />
+<b>Notice</b>:  Undefined variable: of_categories in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/themes/cora/framework/admin/shortcodeGenerator.php</b> on line <b>1710</b><br />
+<br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+GIF89a  ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   ÿÿÿ                                                                                                                     !ù  Ø ,        ± ;
+2011-08-19 09:42:29 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+2011-08-19 09:42:29 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:42:40 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=l&mm=54&co=h&us=5921ec3e8596ed63c4e93f22b6313af5
+2011-08-19 09:42:40 000000 --  mp_redirect : >> http://localhost/wp-a2/?cat=3&del=5921ec3e8596ed63c4e93f22b6313af5 << 
+2011-08-19 09:42:40 000000 -- <br />
+<b>Notice</b>:  Undefined variable: of_categories in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/themes/cora/framework/admin/shortcodeGenerator.php</b> on line <b>1710</b><br />
+<br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+
+2011-08-19 09:42:40 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:42:40 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=l&mm=54&co=h&us=5921ec3e8596ed63c4e93f22b6313af5
+2011-08-19 09:42:40 000000 --  mp_redirect : >> http://localhost/wp-a2/?cat=3&del=5921ec3e8596ed63c4e93f22b6313af5 << 
+2011-08-19 09:42:40 000000 -- <br />
+<b>Notice</b>:  Undefined variable: of_categories in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/themes/cora/framework/admin/shortcodeGenerator.php</b> on line <b>1710</b><br />
+<br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+
+2011-08-19 09:42:40 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+2011-08-19 09:42:40 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:42:41 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/?cat=3&del=5921ec3e8596ed63c4e93f22b6313af5
+2011-08-19 09:42:41 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:42:41 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/themes/cora/css/custom.php
+2011-08-19 09:42:42 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:43:45 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=o&mm=55&co=h&us=94bfd751039501c1b52352259e2288bc
+2011-08-19 09:43:46 000000 --  mp_die : >> 1 << 
+2011-08-19 09:43:46 000000 -- <br />
+<b>Notice</b>:  Undefined variable: of_categories in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/themes/cora/framework/admin/shortcodeGenerator.php</b> on line <b>1710</b><br />
+<br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+GIF89a  ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   ÿÿÿ                                                                                                                     !ù  Ø ,        ± ;
+2011-08-19 09:43:46 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:43:45 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=o&mm=55&co=h&us=94bfd751039501c1b52352259e2288bc
+2011-08-19 09:43:46 000000 --  mp_die : >> 1 << 
+2011-08-19 09:43:46 000000 -- <br />
+<b>Notice</b>:  Undefined variable: of_categories in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/themes/cora/framework/admin/shortcodeGenerator.php</b> on line <b>1710</b><br />
+<br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+GIF89a  ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   ÿÿÿ                                                                                                                     !ù  Ø ,        ± ;
+2011-08-19 09:43:46 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+2011-08-19 09:43:46 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:44:58 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=l&mm=53&co=h&us=5921ec3e8596ed63c4e93f22b6313af5
+2011-08-19 09:44:58 000000 --  mp_redirect : >> http://localhost/wp-a2/?p=539 << 
+2011-08-19 09:44:58 000000 -- <br />
+<b>Notice</b>:  Undefined variable: of_categories in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/themes/cora/framework/admin/shortcodeGenerator.php</b> on line <b>1710</b><br />
+<br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+
+2011-08-19 09:44:58 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:44:58 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=l&mm=53&co=h&us=5921ec3e8596ed63c4e93f22b6313af5
+2011-08-19 09:44:58 000000 --  mp_redirect : >> http://localhost/wp-a2/?p=539 << 
+2011-08-19 09:44:58 000000 -- <br />
+<b>Notice</b>:  Undefined variable: of_categories in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/themes/cora/framework/admin/shortcodeGenerator.php</b> on line <b>1710</b><br />
+<br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+
+2011-08-19 09:44:58 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+2011-08-19 09:44:58 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:44:59 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/?p=539
+2011-08-19 09:44:59 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:44:59 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/themes/cora/css/custom.php
+2011-08-19 09:44:59 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:45:28 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails
+2011-08-19 09:45:28 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:45:36 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails&file=tracking&id=20&mode=list
+2011-08-19 09:45:37 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:51:39 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-cron.php?doing_wp_cron
+2011-08-19 09:51:40 000000 -- PHP [E_WARNING] 2 : mysql_num_fields() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1115 
+2011-08-19 09:51:40 000000 -- PHP [E_WARNING] 2 : mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1120 
+2011-08-19 09:51:40 000000 -- PHP [E_WARNING] 2 : mysql_free_result() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1125 
+2011-08-19 09:51:40 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:51:39 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/?cat=4
+2011-08-19 09:51:40 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:51:40 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/themes/cora/css/custom.php
+2011-08-19 09:51:40 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:51:43 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/?p=524
+2011-08-19 09:51:44 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:51:44 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/themes/cora/css/custom.php
+2011-08-19 09:51:44 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:01 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/themes.php
+2011-08-19 09:53:03 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:12 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/themes.php?action=activate&template=twentyten&stylesheet=twentyten&_wpnonce=9bf35ecb22
+2011-08-19 09:53:13 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:13 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/themes.php?activated=true
+2011-08-19 09:53:14 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:23 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/
+2011-08-19 09:53:24 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:32 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/admin.php?page=mailpress_mails
+2011-08-19 09:53:33 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:50 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?id=20&action=iview&KeepThis=true&TB_iframe=true&width=835&height=766
+2011-08-19 09:53:50 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:50 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=viewadmin&id=20&main_id=20&type=html
+2011-08-19 09:53:50 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:50 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=viewadmin&id=20&main_id=20&type=plaintext
+2011-08-19 09:53:50 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:51 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=o&mm=55&co=h&us={{_confkey}}
+2011-08-19 09:53:52 000000 --  mp_die : >> 1 << 
+2011-08-19 09:53:52 000000 -- <br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+GIF89a  ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   ÿÿÿ                                                                                                                     !ù  Ø ,        ± ;
+2011-08-19 09:53:52 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:53:51 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=o&mm=55&co=h&us={{_confkey}}
+2011-08-19 09:53:52 000000 --  mp_die : >> 1 << 
+2011-08-19 09:53:52 000000 -- <br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+GIF89a  ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   ÿÿÿ                                                                                                                     !ù  Ø ,        ± ;
+2011-08-19 09:53:52 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+2011-08-19 09:53:52 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:55:27 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?id=20&action=iview&KeepThis=true&TB_iframe=true&width=835&height=766
+2011-08-19 09:55:27 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:55:28 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=viewadmin&id=20&main_id=20&type=plaintext
+2011-08-19 09:55:29 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:55:28 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?action=viewadmin&id=20&main_id=20&type=html
+2011-08-19 09:55:29 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:55:29 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=o&mm=55&co=h&us={{_confkey}}
+2011-08-19 09:55:30 000000 --  mp_die : >> 1 << 
+2011-08-19 09:55:30 000000 -- <br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+GIF89a  ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   ÿÿÿ                                                                                                                     !ù  Ø ,        ± ;
+2011-08-19 09:55:30 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 09:55:29 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-content/plugins/mailpress/mp-includes/action.php?tg=o&mm=55&co=h&us={{_confkey}}
+2011-08-19 09:55:30 000000 --  mp_die : >> 1 << 
+2011-08-19 09:55:30 000000 -- <br />
+<b>Notice</b>:  Undefined index: na in <b>/Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-content/plugins/newsletter-pro/plugin.php</b> on line <b>759</b><br />
+GIF89a  ÷  ÿÿÿÿÿÌÿÿ™ÿÿfÿÿ3ÿÿ ÿÌÿÿÌÌÿÌ™ÿÌfÿÌ3ÿÌ ÿ™ÿÿ™Ìÿ™™ÿ™fÿ™3ÿ™ ÿfÿÿfÌÿf™ÿffÿf3ÿf ÿ3ÿÿ3Ìÿ3™ÿ3fÿ33ÿ3 ÿ ÿÿ Ìÿ ™ÿ fÿ 3ÿ  ÌÿÿÌÿÌÌÿ™ÌÿfÌÿ3Ìÿ ÌÌÿÌÌÌÌÌ™ÌÌfÌÌ3ÌÌ Ì™ÿÌ™ÌÌ™™Ì™fÌ™3Ì™ ÌfÿÌfÌÌf™ÌffÌf3Ìf Ì3ÿÌ3ÌÌ3™Ì3fÌ33Ì3 Ì ÿÌ ÌÌ ™Ì fÌ 3Ì  ™ÿÿ™ÿÌ™ÿ™™ÿf™ÿ3™ÿ ™Ìÿ™ÌÌ™Ì™™Ìf™Ì3™Ì ™™ÿ™™Ì™™™™™f™™3™™ ™fÿ™fÌ™f™™ff™f3™f ™3ÿ™3Ì™3™™3f™33™3 ™ ÿ™ Ì™ ™™ f™ 3™  fÿÿfÿÌfÿ™fÿffÿ3fÿ fÌÿfÌÌfÌ™fÌffÌ3fÌ f™ÿf™Ìf™™f™ff™3f™ ffÿffÌff™fffff3ff f3ÿf3Ìf3™f3ff33f3 f ÿf Ìf ™f ff 3f  3ÿÿ3ÿÌ3ÿ™3ÿf3ÿ33ÿ 3Ìÿ3ÌÌ3Ì™3Ìf3Ì33Ì 3™ÿ3™Ì3™™3™f3™33™ 3fÿ3fÌ3f™3ff3f33f 33ÿ33Ì33™33f33333 3 ÿ3 Ì3 ™3 f3 33   ÿÿ ÿÌ ÿ™ ÿf ÿ3 ÿ  Ìÿ ÌÌ Ì™ Ìf Ì3 Ì  ™ÿ ™Ì ™™ ™f ™3 ™  fÿ fÌ f™ ff f3 f  3ÿ 3Ì 3™ 3f 33 3   ÿ  Ì  ™  f  3   ÿÿÿ                                                                                                                     !ù  Ø ,        ± ;
+2011-08-19 09:55:30 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+2011-08-19 09:55:30 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 21:26:07 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-admin/index.php
+2011-08-19 21:26:09 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 21:26:09 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fwp-a2%2Fwp-admin%2Findex.php&reauth=1
+2011-08-19 21:26:09 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 21:26:10 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fwp-a2%2Fwp-admin%2Findex.php&reauth=1
+2011-08-19 21:26:10 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 21:26:08 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-cron.php?doing_wp_cron
+2011-08-19 21:26:08 000000 -- PHP [E_WARNING] 2 : mysql_num_fields() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1115 
+2011-08-19 21:26:08 000000 -- PHP [E_WARNING] 2 : mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1120 
+2011-08-19 21:26:08 000000 -- PHP [E_WARNING] 2 : mysql_free_result() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1125 
+2011-08-19 21:26:12 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 21:31:01 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/wp-cron.php?doing_wp_cron
+2011-08-19 21:31:01 000000 -- PHP [E_WARNING] 2 : mysql_num_fields() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1115 
+2011-08-19 21:31:01 000000 -- PHP [E_WARNING] 2 : mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1120 
+2011-08-19 21:31:01 000000 -- PHP [E_WARNING] 2 : mysql_free_result() expects parameter 1 to be resource, boolean given in /Applications/XAMPP/xamppfiles/htdocs/wp-a2/wp-includes/wp-db.php at line 1125 
+2011-08-19 21:31:01 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 
+
+2011-08-19 21:31:00 000000 --  **** Start logging **** MailPress_debug *** level : 2**** (5.1) **** /wp-a2/login.php
+2011-08-19 21:31:01 000000 --  **** End   logging **** MailPress_debug *** level : 2 **** status : TRUE 

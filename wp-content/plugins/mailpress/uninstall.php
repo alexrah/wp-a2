@@ -1,0 +1,1 @@
+<?php new MP_uninstall(); ?>

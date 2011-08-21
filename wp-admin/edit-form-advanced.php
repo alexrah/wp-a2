@@ -133,7 +133,7 @@ if ( current_theme_supports( 'post-thumbnails', $post_type ) && post_type_suppor
 		add_meta_box('postimagediv', __('Featured Image'), 'post_thumbnail_meta_box', $post_type, 'side', 'low');
 
 if ( post_type_supports($post_type, 'excerpt') )
-	add_meta_box('postexcerpt', __('Excerpt'), 'post_excerpt_meta_box', $post_type, 'normal', 'core');
+	add_meta_box('postexcerpt', __('Sommario'), 'post_excerpt_meta_box', $post_type, 'normal', 'core');
 
 if ( post_type_supports($post_type, 'trackbacks') )
 	add_meta_box('trackbacksdiv', __('Send Trackbacks'), 'post_trackback_meta_box', $post_type, 'normal', 'core');

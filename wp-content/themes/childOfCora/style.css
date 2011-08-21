@@ -1,4 +1,4 @@
-@import url('../cora/style.css');
+@import "../cora/style.css";
 /*
  * Theme Name: Child of Cora
  * Theme URI: http://www.?.com
@@ -6,3 +6,7 @@
  * Author: Alexrah
  * Template: cora
  */
+
+/* @import "css/style.css"; */
+@import "css/custom.php";
+

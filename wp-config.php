@@ -16,7 +16,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'fellinei_a2new');
+define('DB_NAME', 'fellinei_a2newrestored');
 
 /** MySQL database username */
 define('DB_USER', 'fellinei_wpuser2');
@@ -78,7 +78,9 @@ define('WPLANG', '');
  * It is strongly recommended that plugin and theme developers use WP_DEBUG
  * in their development environments.
  */
-define('WP_DEBUG', false);
+// define('WP_DEBUG', true);
+// define('WP_DEBUG_LOG', true);  // Turn logging to wp-content/debug.log ON
+
 
 /* That's all, stop editing! Happy blogging. */
 

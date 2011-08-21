@@ -1,0 +1,33 @@
+td.column-gravatar, td.column-flag, td.column-action1, td.column-action2 {
+	text-align:center;
+	vertical-align:middle;
+}
+
+td.column-username img {
+	float:right;
+}
+
+td.column-newsletters {
+	max-width:200px;
+}
+
+/* mp_message */
+div#mp_message {
+	float:right;
+	margin-right:20px;
+}
+div#mp_message div#message p {
+	padding:2px;
+	margin:0;
+}
+
+#tracking_mp_u007 td, #tracking_mp_u007 th {
+	font-size:11px;
+}
+#tracking_mp_u007 th {
+	width:75px;
+}
+#tracking_mp_u007 td.number {
+	font-weight:bold;
+	text-align:right;
+}
