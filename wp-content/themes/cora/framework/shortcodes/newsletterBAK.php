@@ -76,34 +76,17 @@ function theme_shortcode_newsletter($atts, $content = null, $code) {
 		}
 
     
-			$col[$i] .= '<td valign="top">';  //
-      $col[$i] .= '<div class="testmail_title"><a href="'.get_permalink().'"><h4>' . get_the_title() . '</h4></a></div>';
-      $col[$i] .= '<div style="margin-right: 10px;" class="testmail_description"><font face="Arial, Helvetica, sans-serif" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;">' . excerpt(15) . '</font></div>';
-      $col[$i] .= '<table style="width: 100%; margin-top: 15px; border: solid 2px #CCCCCC;">';  // start new table row for scheda tecnica
+			$col[$i] .= '<td>';  //
+      $col[$i] .= '<div class="testmail_title" style="margin-top: 0px;"><a href="'.get_permalink().'">' . get_the_title() . '</a></div>';
+			$col[$i] .= '<div style="margin-right: 10px;" class="testmail_description"><h6>' . excerpt(15) . '</h6></div>';
+      $col[$i] .= '</td>';
+      $col[$i] .= '</tr>';
       $col[$i] .= '<tr>';
-      $col[$i] .= '<td style="border-bottom: solid 2px #CCCCCC;" align="left">';
-      $col[$i] .= '<div><font face="Arial, Helvetica, sans-serif" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;">' . get_post_meta(get_the_id(), 'Impianto', true) . '</font></div>';
-      $col[$i] .= '</td>';
-      $col[$i] .= '<td style="border-bottom: solid 2px #CCCCCC;" align="right">';
-      $col[$i] .= '<div><font face="Arial, Helvetica, sans-serif" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;">' . get_post_meta(get_the_id(), 'Tipo Impianto', true) . '</font></div>';
-      $col[$i] .= '</td>';
-      $col[$i] .= '</tr>'; // end 1 sub-line
-      $col[$i] .= '<tr>';
-      $col[$i] .= '<td align="left">';
-      $col[$i] .= '<div><font face="Arial, Helvetica, sans-serif" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;">' . get_post_meta(get_the_id(), 'Potenza', true) . '</font></div>';
-      $col[$i] .= '</td>';
-      $col[$i] .= '<td align="right">';
-      $col[$i] .= '<div><font face="Arial, Helvetica, sans-serif" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;">' . get_post_meta(get_the_id(), 'N potenza', true) . '</font></div>';
-      $col[$i] .= '</td>';
-      $col[$i] .= '</tr>'; // end 2 sub-line
-      $col[$i] .= '</table>'; // 
-      $col[$i] .= '</tr>'; // end master row
-      $col[$i] .= '<tr>';  // nuova linea x didascalia e bottone
       $col[$i] .= '<td>';
-      $col[$i] .= '<div style="width: 227px; margin-left: 10px; background-color: #CCCCCC;"><font face="Arial, Helvetica, sans-serif" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333;">' . get_post_meta(get_the_id(), 'Didascalia Immagine', true) . '</font></div>';
+      $col[$i] .= '<div style="border: solid 1px; width: 227px; margin-left: 10px; background-color: #CCCCCC;">' . get_post_meta(get_the_id(), 'Impianto', true) . '</div>';
       $col[$i] .= '</td>';
       $col[$i] .= '<td>';
-      $col[$i] .= '<div align="right" style="margin-right: 10px;">';
+      $col[$i] .= '<div align="right" style="margin-right: 10px; bgcolor: red;">';
 			$col[$i] .= '<a class="icon_'.$icon.$lightbox.'" href="' . $href . '" title="' . get_the_title() . '"'.$rel.'>';
 
 			$col[$i] .= '<img src="images/bottone.gif"  />';

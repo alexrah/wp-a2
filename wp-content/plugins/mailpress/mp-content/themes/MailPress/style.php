@@ -170,7 +170,7 @@ $_classes = array(
 
 'frtd'		=> "	font-family:Georgia,Times,serif;
 				color:#8c8c8c;
-				font-size:14px;text-align:left;"
+				font-size:12px;text-align:left;"
 
 );
 ?>

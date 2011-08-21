@@ -7,12 +7,12 @@
 				<tr>	
 					<td <?php $this->classes('frtd'); ?>>
 						<b>
-							<a href="http://fellineimpianti.it/">FELLINE IMPIANTI</a>: Via Clavesana, 56 - Andora - Tel.0182.684116 - <a href="http://fellineimpianti.it/?page_id=52">CONTATTO</a>
+							<a href="http://fellineimpianti.it/">FELLINE IMPIANTI</a>: Via Clavesana, 56 </br >Andora Tel.0182.684116 - <a href="http://fellineimpianti.it/?page_id=52">CONTATTO</a>
 						</b>
           </td>	
           <td align="right" <?php $this->classes('fltd'); ?>>
 						<b>
-						  Gli Esperti della Climatizzazione,  al Vostro servizio.
+						  Gli Esperti della Climatizzazione,</br >  al Vostro servizio.
 						</b>
 					</td>
 
