@@ -2,7 +2,7 @@
 	<tr>
 		<td <?php $this->classes('nopmb ctd'); ?>>
 			<div <?php $this->classes('cdiv'); ?>>
-				<h2 <?php $this->classes('ch2'); ?>>
+				<h2 align="center" style="color: #2583AD;"<?php $this->classes('ch2'); ?>>
 <?php if (isset($_the_title)) echo $_the_title; else $this->the_title(); ?>
 				</h2>
 				<small <?php $this->classes('nopmb cdate'); ?>>

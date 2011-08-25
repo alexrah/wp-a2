@@ -54,4 +54,4 @@ class MP_Tracking_module_u001 extends MP_Tracking_module_abstract
 		}
 	}
 }
-new MP_Tracking_module_u001(__('Last 10 actions', MP_TXTDOM));
+new MP_Tracking_module_u001(__('Ultime 10 attivita&#39;', MP_TXTDOM));

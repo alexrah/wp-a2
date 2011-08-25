@@ -27,7 +27,7 @@ function wp_dashboard_setup() {
 
 	// Right Now
 	if ( is_blog_admin() && current_user_can('edit_posts') )
-		wp_add_dashboard_widget( 'dashboard_right_now', __( 'Right Now' ), 'wp_dashboard_right_now' );
+		wp_add_dashboard_widget( 'dashboard_right_now', __( 'Sommario generale' ), 'wp_dashboard_right_now' );
 
 	if ( is_network_admin() )
 		wp_add_dashboard_widget( 'network_dashboard_right_now', __( 'Right Now' ), 'wp_network_dashboard_right_now' );
@@ -248,7 +248,7 @@ function wp_dashboard_right_now() {
 
 	// Posts
 	$num = number_format_i18n( $num_posts->publish );
-	$text = _n( 'Post', 'Posts', intval($num_posts->publish) );
+	$text = _n( 'Post', 'Installazioni', intval($num_posts->publish) );
 	if ( current_user_can( 'edit_posts' ) ) {
 		$num = "<a href='edit.php'>$num</a>";
 		$text = "<a href='edit.php'>$text</a>";
@@ -276,7 +276,7 @@ function wp_dashboard_right_now() {
 
 	// Pages
 	$num = number_format_i18n( $num_pages->publish );
-	$text = _n( 'Page', 'Pages', $num_pages->publish );
+	$text = _n( 'Page', 'Pagine', $num_pages->publish );
 	if ( current_user_can( 'edit_pages' ) ) {
 		$num = "<a href='edit.php?post_type=page'>$num</a>";
 		$text = "<a href='edit.php?post_type=page'>$text</a>";
@@ -288,7 +288,7 @@ function wp_dashboard_right_now() {
 
 	// Categories
 	$num = number_format_i18n( $num_cats );
-	$text = _n( 'Category', 'Categories', $num_cats );
+	$text = _n( 'Category', 'Categorie', $num_cats );
 	if ( current_user_can( 'manage_categories' ) ) {
 		$num = "<a href='edit-tags.php?taxonomy=category'>$num</a>";
 		$text = "<a href='edit-tags.php?taxonomy=category'>$text</a>";
@@ -300,7 +300,7 @@ function wp_dashboard_right_now() {
 
 	// Tags
 	$num = number_format_i18n( $num_tags );
-	$text = _n( 'Tag', 'Tags', $num_tags );
+	$text = _n( 'Tag', 'Etichette', $num_tags );
 	if ( current_user_can( 'manage_categories' ) ) {
 		$num = "<a href='edit-tags.php'>$num</a>";
 		$text = "<a href='edit-tags.php'>$text</a>";

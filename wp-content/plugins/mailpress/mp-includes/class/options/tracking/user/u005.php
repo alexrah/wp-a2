@@ -30,4 +30,4 @@ class MP_Tracking_module_u005 extends MP_Tracking_module_abstract
 		if ($tracks) foreach($tracks as $track) {echo MailPress_tracking::get_os($track->agent) . ' ' . MailPress_tracking::get_browser($track->agent) . '&nbsp;&nbsp;&nbsp;@&nbsp;' . $track->ip . '<br />'; }
 	}
 }
-new MP_Tracking_module_u005(__('System info', MP_TXTDOM));
+new MP_Tracking_module_u005(__('Informazioni Sistema Operativo e browser', MP_TXTDOM));

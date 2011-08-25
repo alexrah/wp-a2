@@ -59,4 +59,4 @@ class MP_Dashboard_mails_activity extends MP_Dashboard_widget_abstract
 <?php
 	}
 }
-new MP_Dashboard_mails_activity(__( 'MailPress - Mails activity', MP_TXTDOM ));
+new MP_Dashboard_mails_activity(__( 'Newsletter - Attivita&#39; mails', MP_TXTDOM ));

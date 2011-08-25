@@ -47,4 +47,4 @@ class MP_Tracking_module_u008 extends MP_Tracking_module_abstract
 		}
 	}
 }
-new MP_Tracking_module_u008(__('Most clicked', MP_TXTDOM));
+new MP_Tracking_module_u008(__('Pagine piu&#39; cliccate', MP_TXTDOM));

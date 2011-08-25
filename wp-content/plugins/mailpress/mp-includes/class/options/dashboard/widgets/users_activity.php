@@ -142,4 +142,4 @@ class MP_Dashboard_users_activity extends MP_Dashboard_widget_abstract
 <?php
 	}
 }
-new MP_Dashboard_users_activity(__( 'MailPress - Subscribers activity', MP_TXTDOM ));
+new MP_Dashboard_users_activity(__( 'Newsletter - Attivita&#39; utenti', MP_TXTDOM ));

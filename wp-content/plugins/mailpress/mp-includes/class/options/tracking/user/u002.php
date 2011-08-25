@@ -61,4 +61,4 @@ class MP_Tracking_module_u002 extends MP_Tracking_module_abstract
 		}
 	}
 }
-new MP_Tracking_module_u002(__('Last 10 mails',  MP_TXTDOM));
+new MP_Tracking_module_u002(__('Ultime 10 mails',  MP_TXTDOM));

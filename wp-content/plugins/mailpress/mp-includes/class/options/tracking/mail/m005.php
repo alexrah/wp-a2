@@ -51,4 +51,4 @@ class MP_Tracking_module_m005 extends MP_Tracking_module_abstract
 		}
 	}
 }
-new MP_Tracking_module_m005(__('System info', MP_TXTDOM));
+new MP_Tracking_module_m005(__('Informazioni Sistema Operativo e browser', MP_TXTDOM));

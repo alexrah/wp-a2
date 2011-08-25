@@ -51,4 +51,4 @@ class MP_Tracking_module_u007 extends MP_Tracking_module_abstract
 		}
 	}
 }
-new MP_Tracking_module_u007(__('Opened, Clicks/day', MP_TXTDOM));
+new MP_Tracking_module_u007(__('Mails aperte, Clicks/giorno', MP_TXTDOM));

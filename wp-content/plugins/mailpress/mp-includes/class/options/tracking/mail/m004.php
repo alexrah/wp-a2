@@ -12,4 +12,4 @@ class MP_Tracking_module_m004 extends MP_Tracking_module_abstract
 		if ($tracks) foreach($tracks as $track) echo $track->tmstp . ' <b>' . $track->count . '</b><br />';
 	}
 }
-new MP_Tracking_module_m004(__('Clicks/day', MP_TXTDOM));
+new MP_Tracking_module_m004(__('Clicks/giorno', MP_TXTDOM));

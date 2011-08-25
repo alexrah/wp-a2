@@ -59,4 +59,4 @@ class MP_Dashboard_mails_sent extends MP_Dashboard_widget_abstract
 <?php
 	}
 }
-new MP_Dashboard_mails_sent(__( 'MailPress - Mails sent', MP_TXTDOM ));
+new MP_Dashboard_mails_sent(__( 'Newsletter - Email spedite', MP_TXTDOM ));

@@ -13,4 +13,4 @@ class MP_Tracking_module_m008 extends MP_Tracking_module_abstract
 			echo "({$track->count}) "  . MailPress_tracking::translate_track($track->track, $mail->id, 50) . " <br />";
 	}
 }
-new MP_Tracking_module_m008(__('Most clicked', MP_TXTDOM));
+new MP_Tracking_module_m008(__('Pagine piu&#39; cliccate', MP_TXTDOM));

@@ -83,4 +83,4 @@ class MP_Tracking_module_m009 extends MP_Tracking_module_abstract
 <?php
 	}
 }
-new MP_Tracking_module_m009(__('Opened, Clicks/day chart', MP_TXTDOM));
+new MP_Tracking_module_m009(__('Mails aperte, Clicks/giorno grafico', MP_TXTDOM));

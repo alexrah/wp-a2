@@ -12,4 +12,4 @@ class MP_Tracking_module_u003 extends MP_Tracking_module_abstract
 		if ($tracks) foreach($tracks as $track) echo $track->tmstp . ' <b>' . $track->count . '</b><br />';
 	}
 }
-new MP_Tracking_module_u003(__('Opened/day', MP_TXTDOM));
+new MP_Tracking_module_u003(__('Mail aperte/giorno', MP_TXTDOM));

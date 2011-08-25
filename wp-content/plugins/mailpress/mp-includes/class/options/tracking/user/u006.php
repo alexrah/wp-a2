@@ -104,4 +104,4 @@ class MP_Tracking_module_u006 extends MP_Tracking_module_abstract
 		}
 	}
 }
-new MP_Tracking_module_u006(__('Geoip', MP_TXTDOM));
+new MP_Tracking_module_u006(__('Posizione geografica indicativa', MP_TXTDOM));
